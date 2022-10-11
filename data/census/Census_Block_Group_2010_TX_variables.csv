@@ -1,0 +1,56 @@
+﻿variable,Description,rename
+OBJECTID_1,Object ID,
+OBJECTID,Object ID,
+STATE_FIPS,State FIPS,
+CNTY_FIPS,County FIPS,
+STCOFIPS,State+County FIPS,County #
+TRACT,Census Tract,
+BLKGRP,Block Group,
+FIPS,FIPS,
+POPULATION,Population,
+POP_SQMI,Population in square miles,
+POP2010,Population in 2010,Population 10
+POP10_SQMI,Population 2010 in square miles,
+WHITE,White alone population,White Pop 10
+BLACK,Black alone population,Black Pop 10
+AMERI_ES,Native American alone population,
+ASIAN,Asian alone population,Asian Pop 10
+HAWN_PI,Pacific Islander alone population,
+HISPANIC,Hispanic population,Hispanic Pop 10
+OTHER,Other alone population,
+MULT_RACE,Multiple race population,
+MALES,Male population,Male Pop 10
+FEMALES,Female population,Female Pop 10
+AGE_UNDER5,Age 0-4 population,Age 0-4 Pop 10
+AGE_5_9,Age 5-9 population,Age 5-9 Pop 10
+AGE_10_14,Age 10-14 population,Age 10-14 Pop 10
+AGE_15_19,Age 15-19 population,Age 15-19 Pop 10
+AGE_20_24,Age 20-24 population,Age 20-24 Pop 10
+AGE_25_34,Age 25-34 population,Age 25-34 Pop 10
+AGE_35_44,Age 35-44 population,Age 35-44 Pop 10
+AGE_45_54,Age 45-54 population,Age 45-54 Pop 10
+AGE_55_64,Age 55-64 population,Age 55-64 Pop 10
+AGE_65_74,Age 65-74 population,Age 65-74 Pop 10
+AGE_75_84,Age 75-84 population,Age 75-84 Pop 10
+AGE_85_UP,Age 85-UP population,Age 85-Up Pop 10
+MED_AGE,Median age both sexes,Median Age 10
+MED_AGE_M,Median age of males,Median Age Male 10
+MED_AGE_F,Median age of females,Median Age Female 10
+HOUSEHOLDS,Number of households,# of Households 10
+AVE_HH_SZ,Average household size,Avg Household Size 10
+HSEHLD_1_M,Number of 1-person male households,Households 1 Male 10
+HSEHLD_1_F,Number of 1-person female households,Households 1 Female 10
+MARHH_CHD,Number of married couple households with children,Households Married-Child 10
+MARHH_NO_C,Number of married couple households with no children,Households Married-noChild 10
+MHH_CHILD,Number of male-headed households with children,Households Male-Child 10
+FHH_CHILD,Number of female-headed households with children,Households Female-Child 10
+FAMILIES,Number of families,# of Families 10
+AVE_FAM_SZ,Average family size,Avg Family Size 10
+HSE_UNITS,"Total number of housing units (H0010001). Sum of VACANT, OWNER_OCC, RENTER_OCC. A housing unit is defined by the Census Bureau as a living quarters in which the occupant or occupants live separately from any other individuals in the building and have direct access to their liiving quarters from outside the building or through a common hall.",# of Housing Units 10
+VACANT,Number of vacant housing units,Housing Vacant 10
+OWNER_OCC,Owner Occupied Housing,Housing Owner Occupied 10
+RENTER_OCC,Renter Occupied Housing,Housing Renter Occupied 10
+SQMI,Square mile,
+Shape_Leng,"the length of the perimeter of the census tract, in meters ",
+Shape__Area,Area in meters,
+Shape__Length,Perimeter in meters,

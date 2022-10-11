@@ -1,0 +1,236 @@
+DISTRICT,Character,6,District Number
+DNAME,Character,15,District Name
+REGION,Character,2,Education Service Center (Region) Number
+
+r_all_d,Numeric,8,# Tested -- Reading -- All Students
+m_all_d,Numeric,8,# Tested -- Mathematics -- All Students
+
+r_all_unsatgl_nm,Numeric,8,# Did Not Meet Grade Level Performance -- Reading -- All Students
+r_all_approgl_nm,Numeric,8,# Approaches Grade Level Performance -- Reading -- All Students
+r_all_meetsgl_nm,Numeric,8,# Meets Grade Level Performance -- Reading -- All Students
+r_all_mastrgl_nm,Numeric,8,# Masters Grade Level Performance -- Reading -- All Students
+
+m_all_unsatgl_nm,Numeric,8,# Did Not Meet Grade Level Performance -- Mathematics -- All Students
+m_all_approgl_nm,Numeric,8,# Approaches Grade Level Performance -- Mathematics -- All Students
+m_all_meetsgl_nm,Numeric,8,# Meets Grade Level Performance -- Mathematics -- All Students
+m_all_mastrgl_nm,Numeric,8,# Masters Grade Level Performance -- Mathematics -- All Students
+
+r_all_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- All Students
+r_all_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- All Students
+r_all_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- All Students
+r_all_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- All Students
+
+m_all_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- All Students
+m_all_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- All Students
+m_all_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- All Students
+m_all_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- All Students
+
+r_ti1y_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Title-I Participant Students Codes: 6 7 9
+r_ti1n_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Not Title-I Participant Students Codes: 0 8
+r_ti10_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Nonparticipant (Not Previous Participant Students)
+r_ti16_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Schoolwide Program Participant Students
+r_ti17_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Targeted Assistance Participant Students
+r_ti18_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Nonparticipant (Previous Participant) Students
+r_ti19_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Homeless Participant at Non-Title-I Schools Students
+r_ecoy_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Econ Disadv Students Codes: 1 2 9
+r_econ_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Not Econ Disadv Students
+r_eco1_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Free Meals Students
+r_eco2_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Reduced-Price Meals Students
+r_sexm_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Male Students
+r_sexf_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Female Students
+r_ethi_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- American Indian or Alaska Native Students
+r_etha_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Asian Students
+r_ethh_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Hispanic/Latino Students
+r_ethb_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Black or African American Students
+r_ethw_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- White Students
+r_ethp_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Native Hawaiian or Other Pacific Islander Students
+r_eth2_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Reading -- Two or More Races Students
+
+r_ti1y_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Title-I Participant Students Codes: 6 7 9
+r_ti1n_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Not Title-I Participant Students Codes: 0 8
+r_ti10_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Nonparticipant (Not Previous Participant Students)
+r_ti16_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Schoolwide Program Participant Students
+r_ti17_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Targeted Assistance Participant Students
+r_ti18_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Nonparticipant (Previous Participant) Students
+r_ti19_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Homeless Participant at Non-Title-I Schools Students
+r_ecoy_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Econ Disadv Students Codes: 1 2 9
+r_econ_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Not Econ Disadv Students
+r_eco1_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Free Meals Students
+r_eco2_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Reduced-Price Meals Students
+r_sexm_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Male Students
+r_sexf_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Female Students
+r_ethi_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- American Indian or Alaska Native Students
+r_etha_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Asian Students
+r_ethh_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Hispanic/Latino Students
+r_ethb_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Black or African American Students
+r_ethw_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- White Students
+r_ethp_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Native Hawaiian or Other Pacific Islander Students
+r_eth2_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Reading -- Two or More Races Students
+
+r_ti1y_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Title-I Participant Students Codes: 6 7 9
+r_ti1n_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Not Title-I Participant Students Codes: 0 8
+r_ti10_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Nonparticipant (Not Previous Participant Students)
+r_ti16_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Schoolwide Program Participant Students
+r_ti17_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Targeted Assistance Participant Students
+r_ti18_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Nonparticipant (Previous Participant) Students
+r_ti19_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Homeless Participant at Non-Title-I Schools Students
+r_ecoy_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Econ Disadv Students Codes: 1 2 9
+r_econ_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Not Econ Disadv Students
+r_eco1_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Free Meals Students
+r_eco2_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Reduced-Price Meals Students
+r_sexm_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Male Students
+r_sexf_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Female Students
+r_ethi_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- American Indian or Alaska Native Students
+r_etha_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Asian Students
+r_ethh_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Hispanic/Latino Students
+r_ethb_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Black or African American Students
+r_ethw_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- White Students
+r_ethp_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Native Hawaiian or Other Pacific Islander Students
+r_eth2_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Reading -- Two or More Races Students
+
+r_ti1y_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Title-I Participant Students Codes: 6 7 9
+r_ti1n_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Not Title-I Participant Students Codes: 0 8
+r_ti10_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Nonparticipant (Not Previous Participant Students)
+r_ti16_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Schoolwide Program Participant Students
+r_ti17_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Targeted Assistance Participant Students
+r_ti18_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Nonparticipant (Previous Participant) Students
+r_ti19_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Homeless Participant at Non-Title-I Schools Students
+r_ecoy_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Econ Disadv Students Codes: 1 2 9
+r_econ_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Not Econ Disadv Students
+r_eco1_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Free Meals Students
+r_eco2_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Reduced-Price Meals Students
+r_sexm_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Male Students
+r_sexf_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Female Students
+r_ethi_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- American Indian or Alaska Native Students
+r_etha_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Asian Students
+r_ethh_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Hispanic/Latino Students
+r_ethb_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Black or African American Students
+r_ethw_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- White Students
+r_ethp_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Native Hawaiian or Other Pacific Islander Students
+r_eth2_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Reading -- Two or More Races Students
+
+m_ti1y_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Title-I Participant Students Codes: 6 7 9
+m_ti1n_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Not Title-I Participant Students Codes: 0 8
+m_ti10_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Nonparticipant (Not Previous Participant Students)
+m_ti16_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Schoolwide Program Participant Students
+m_ti17_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Targeted Assistance Participant Students
+m_ti18_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Nonparticipant (Previous Participant) Students
+m_ti19_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Homeless Participant at Non-Title-I Schools Students
+m_ecoy_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Econ Disadv Students Codes: 1 2 9
+m_econ_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Not Econ Disadv Students
+m_eco1_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Free Meals Students
+m_eco2_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Reduced-Price Meals Students
+m_sexm_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Male Students
+m_sexf_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Female Students
+m_ethi_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- American Indian or Alaska Native Students
+m_etha_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Asian Students
+m_ethh_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Hispanic/Latino Students
+m_ethb_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Black or African American Students
+m_ethw_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- White Students
+m_ethp_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Native Hawaiian or Other Pacific Islander Students
+m_eth2_unsatgl_rm,Numeric,8,% Did Not Meet Grade Level Performance -- Mathematics -- Two or More Races Students
+
+m_ti1y_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Title-I Participant Students Codes: 6 7 9
+m_ti1n_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Not Title-I Participant Students Codes: 0 8
+m_ti10_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Nonparticipant (Not Previous Participant Students)
+m_ti16_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Schoolwide Program Participant Students
+m_ti17_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Targeted Assistance Participant Students
+m_ti18_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Nonparticipant (Previous Participant) Students
+m_ti19_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Homeless Participant at Non-Title-I Schools Students
+m_ecoy_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Econ Disadv Students Codes: 1 2 9
+m_econ_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Not Econ Disadv Students
+m_eco1_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Free Meals Students
+m_eco2_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Reduced-Price Meals Students
+m_sexm_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Male Students
+m_sexf_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Female Students
+m_ethi_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- American Indian or Alaska Native Students
+m_etha_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Asian Students
+m_ethh_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Hispanic/Latino Students
+m_ethb_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Black or African American Students
+m_ethw_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- White Students
+m_ethp_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Native Hawaiian or Other Pacific Islander Students
+m_eth2_approgl_rm,Numeric,8,% Approaches Grade Level Performance -- Mathematics -- Two or More Races Students
+
+m_ti1y_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Title-I Participant Students Codes: 6 7 9
+m_ti1n_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Not Title-I Participant Students Codes: 0 8
+m_ti10_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Nonparticipant (Not Previous Participant Students)
+m_ti16_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Schoolwide Program Participant Students
+m_ti17_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Targeted Assistance Participant Students
+m_ti18_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Nonparticipant (Previous Participant) Students
+m_ti19_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Homeless Participant at Non-Title-I Schools Students
+m_ecoy_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Econ Disadv Students Codes: 1 2 9
+m_econ_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Not Econ Disadv Students
+m_eco1_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Free Meals Students
+m_eco2_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Reduced-Price Meals Students
+m_sexm_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Male Students
+m_sexf_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Female Students
+m_ethi_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- American Indian or Alaska Native Students
+m_etha_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Asian Students
+m_ethh_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Hispanic/Latino Students
+m_ethb_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Black or African American Students
+m_ethw_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- White Students
+m_ethp_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Native Hawaiian or Other Pacific Islander Students
+m_eth2_meetsgl_rm,Numeric,8,% Meets Grade Level Performance -- Mathematics -- Two or More Races Students
+
+m_ti1y_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Title-I Participant Students Codes: 6 7 9
+m_ti1n_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Not Title-I Participant Students Codes: 0 8
+m_ti10_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Nonparticipant (Not Previous Participant Students)
+m_ti16_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Schoolwide Program Participant Students
+m_ti17_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Targeted Assistance Participant Students
+m_ti18_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Nonparticipant (Previous Participant) Students
+m_ti19_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Homeless Participant at Non-Title-I Schools Students
+m_ecoy_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Econ Disadv Students Codes: 1 2 9
+m_econ_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Not Econ Disadv Students
+m_eco1_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Free Meals Students
+m_eco2_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Reduced-Price Meals Students
+m_sexm_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Male Students
+m_sexf_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Female Students
+m_ethi_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- American Indian or Alaska Native Students
+m_etha_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Asian Students
+m_ethh_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Hispanic/Latino Students
+m_ethb_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Black or African American Students
+m_ethw_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- White Students
+m_ethp_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Native Hawaiian or Other Pacific Islander Students
+m_eth2_mastrgl_rm,Numeric,8,% Masters Grade Level Performance -- Mathematics -- Two or More Races Students
+
+r_ti1y_rs,Numeric,8,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9
+r_ti1n_rs,Numeric,8,Average Scale Score -- Reading -- Not Title-I Participant Students Codes: 0 8
+r_ti10_rs,Numeric,8,Average Scale Score -- Reading -- Nonparticipant (Not Previous Participant Students)
+r_ti16_rs,Numeric,8,Average Scale Score -- Reading -- Schoolwide Program Participant Students
+r_ti17_rs,Numeric,8,Average Scale Score -- Reading -- Targeted Assistance Participant Students
+r_ti18_rs,Numeric,8,Average Scale Score -- Reading -- Nonparticipant (Previous Participant) Students
+r_ti19_rs,Numeric,8,Average Scale Score -- Reading -- Homeless Participant at Non-Title-I Schools Students
+r_ecoy_rs,Numeric,8,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9
+r_econ_rs,Numeric,8,Average Scale Score -- Reading -- Not Econ Disadv Students
+r_eco1_rs,Numeric,8,Average Scale Score -- Reading -- Free Meals Students
+r_eco2_rs,Numeric,8,Average Scale Score -- Reading -- Reduced-Price Meals Students
+r_sexm_rs,Numeric,8,Average Scale Score -- Reading -- Male Students
+r_sexf_rs,Numeric,8,Average Scale Score -- Reading -- Female Students
+r_ethi_rs,Numeric,8,Average Scale Score -- Reading -- American Indian or Alaska Native Students
+r_etha_rs,Numeric,8,Average Scale Score -- Reading -- Asian Students
+r_ethh_rs,Numeric,8,Average Scale Score -- Reading -- Hispanic/Latino Students
+r_ethb_rs,Numeric,8,Average Scale Score -- Reading -- Black or African American Students
+r_ethw_rs,Numeric,8,Average Scale Score -- Reading -- White Students
+r_ethp_rs,Numeric,8,Average Scale Score -- Reading -- Native Hawaiian or Other Pacific Islander Students
+r_eth2_rs,Numeric,8,Average Scale Score -- Reading -- Two or More Races Students
+
+m_ti1y_rs,Numeric,8,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9
+m_ti1n_rs,Numeric,8,Average Scale Score -- Mathematics -- Not Title-I Participant Students Codes: 0 8
+m_ti10_rs,Numeric,8,Average Scale Score -- Mathematics -- Nonparticipant (Not Previous Participant Students)
+m_ti16_rs,Numeric,8,Average Scale Score -- Mathematics -- Schoolwide Program Participant Students
+m_ti17_rs,Numeric,8,Average Scale Score -- Mathematics -- Targeted Assistance Participant Students
+m_ti18_rs,Numeric,8,Average Scale Score -- Mathematics -- Nonparticipant (Previous Participant) Students
+m_ti19_rs,Numeric,8,Average Scale Score -- Mathematics -- Homeless Participant at Non-Title-I Schools Students
+m_ecoy_rs,Numeric,8,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9
+m_econ_rs,Numeric,8,Average Scale Score -- Mathematics -- Not Econ Disadv Students
+m_eco1_rs,Numeric,8,Average Scale Score -- Mathematics -- Free Meals Students
+m_eco2_rs,Numeric,8,Average Scale Score -- Mathematics -- Reduced-Price Meals Students
+m_sexm_rs,Numeric,8,Average Scale Score -- Mathematics -- Male Students
+m_sexf_rs,Numeric,8,Average Scale Score -- Mathematics -- Female Students
+m_ethi_rs,Numeric,8,Average Scale Score -- Mathematics -- American Indian or Alaska Native Students
+m_etha_rs,Numeric,8,Average Scale Score -- Mathematics -- Asian Students
+m_ethh_rs,Numeric,8,Average Scale Score -- Mathematics -- Hispanic/Latino Students
+m_ethb_rs,Numeric,8,Average Scale Score -- Mathematics -- Black or African American Students
+m_ethw_rs,Numeric,8,Average Scale Score -- Mathematics -- White Students
+m_ethp_rs,Numeric,8,Average Scale Score -- Mathematics -- Native Hawaiian or Other Pacific Islander Students
+m_eth2_rs,Numeric,8,Average Scale Score -- Mathematics -- Two or More Races Students
