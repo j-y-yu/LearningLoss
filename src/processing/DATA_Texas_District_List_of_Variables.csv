@@ -1,0 +1,951 @@
+﻿variable,source,type,description,v1,v2,v3
+Agency Name,DATA_NCES_DISTRICT.csv,Character,School district name,Y,N,N
+State,DATA_NCES_DISTRICT.csv,Character,State,Y,N,N
+NCES Agency ID,DATA_NCES_DISTRICT.csv,Character,State code+District ID,Y,N,N
+County #,DATA_NCES_DISTRICT.csv,Numeric,State+County FIPS,Y,Y,Y
+Total Operational Public Schools 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,school information,Y,N,Y
+Total Public Schools 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,school information,Y,N,Y
+Total Students 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,school information,Y,N,Y
+FTE Teachers 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,teacher & staff,Y,N,Y
+Total Staff 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,teacher & staff,Y,N,Y
+District #,DATA_NCES_DISTRICT.csv,Numeric,School district ID,Y,Y,Y
+Total Operational Public Schools 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,school information,Y,N,Y
+Total Public Schools 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,school information,Y,N,Y
+Total Students 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,school information,Y,N,Y
+FTE Teachers 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,teacher & staff,Y,N,Y
+Total Staff 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,teacher & staff,Y,N,Y
+Locale,DATA_NCES_DISTRICT.csv,Character,School locale,Y,Y,Y
+Free Lunch 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,lunch program,Y,N,Y
+Free Lunch 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,lunch program,Y,N,Y
+Reduced-price Lunch 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,lunch program,Y,N,Y
+Reduced-price Lunch 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,lunch program,Y,N,Y
+Asian or Asian/Pacific Islander Students 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,race,Y,N,Y
+Asian or Asian/Pacific Islander Students 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,race,Y,N,Y
+Hispanic Students 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,race,Y,N,Y
+Hispanic Students 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,race,Y,N,Y
+Black or African American Students 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,race,Y,N,Y
+Black or African American Students 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,race,Y,N,Y
+White Students 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,race,Y,N,Y
+White Students 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,race,Y,N,Y
+Total Race/Ethnicity 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,race,Y,N,N
+Total Race/Ethnicity 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,race,Y,N,N
+School-wide Title I 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,number of School-wide Title 1 eligible schools,Y,N,Y
+School-wide Title I 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,number of School-wide Title 1 eligible schools,Y,N,Y
+Title I Eligible School 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,number of School-wide and Targeted assistance Title 1 eligible schools,Y,N,Y
+Title I Eligible School 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,number of School-wide and Targeted assistance Title 1 eligible schools,Y,N,Y
+Grade 3 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 3 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 4 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 4 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 5 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 5 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 6 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 6 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 7 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 7 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 8 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 8 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grades 1-8 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,Y
+Grades 1-8 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,Y
+Grades 9-12 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,Y
+Grades 9-12 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,Y
+Prek 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,Y
+Prek 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,Y
+K 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,Y
+K 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,Y
+Grade 1 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 1 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 2 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 2 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 9 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 9 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 10 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 10 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 11 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 11 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 12 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+Grade 12 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade,Y,N,N
+r_all_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- All Students,Y,N,Y
+r_ethh_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Hispanic/Latino Students,Y,N,Y
+r_etha_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Asian Students,Y,N,Y
+r_ethb_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Black or African American Students,Y,N,Y
+r_ethw_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- White Students,Y,N,Y
+r_ecoy_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+r_eco1_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Free Meals Students,Y,N,Y
+r_ti1y_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+r_spey_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Special Ed Students,Y,N,Y
+m_all_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,Y
+m_ethh_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+m_etha_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Asian Students,Y,N,Y
+m_ethb_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Black or African American Students,Y,N,Y
+m_ethw_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- White Students,Y,N,Y
+m_ecoy_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+m_eco1_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Free Meals Students,Y,N,Y
+m_ti1y_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+m_spey_d_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Special Ed Students,Y,N,Y
+r_all_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+r_ethh_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,N
+r_etha_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,N
+r_ethb_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,N
+r_ethw_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,N
+r_ecoy_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+r_eco1_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,N
+r_ti1y_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+r_spey_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,N
+m_all_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+m_ethh_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,N
+m_etha_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,N
+m_ethb_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,N
+m_ethw_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,N
+m_ecoy_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+m_eco1_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,N
+m_ti1y_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+m_spey_rs_g3_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,N
+r_all_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- All Students,Y,N,Y
+r_ethh_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Hispanic/Latino Students,Y,N,Y
+r_etha_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Asian Students,Y,N,Y
+r_ethb_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Black or African American Students,Y,N,Y
+r_ethw_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- White Students,Y,N,Y
+r_ecoy_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+r_eco1_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Free Meals Students,Y,N,Y
+r_ti1y_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+r_spey_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Special Ed Students,Y,N,Y
+m_all_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,Y
+m_ethh_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+m_etha_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Asian Students,Y,N,Y
+m_ethb_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Black or African American Students,Y,N,Y
+m_ethw_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- White Students,Y,N,Y
+m_ecoy_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+m_eco1_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Free Meals Students,Y,N,Y
+m_ti1y_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+m_spey_d_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Special Ed Students,Y,N,Y
+r_all_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+r_ethh_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,N
+r_etha_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,N
+r_ethb_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,N
+r_ethw_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,N
+r_ecoy_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+r_eco1_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,N
+r_ti1y_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+r_spey_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,N
+m_all_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+m_ethh_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,N
+m_etha_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,N
+m_ethb_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,N
+m_ethw_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,N
+m_ecoy_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+m_eco1_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,N
+m_ti1y_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+m_spey_rs_g4_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,N
+r_all_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- All Students,Y,N,Y
+r_ethh_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Hispanic/Latino Students,Y,N,Y
+r_etha_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Asian Students,Y,N,Y
+r_ethb_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Black or African American Students,Y,N,Y
+r_ethw_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- White Students,Y,N,Y
+r_ecoy_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+r_eco1_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Free Meals Students,Y,N,Y
+r_ti1y_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+r_spey_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Special Ed Students,Y,N,Y
+m_all_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,Y
+m_ethh_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+m_etha_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Asian Students,Y,N,Y
+m_ethb_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Black or African American Students,Y,N,Y
+m_ethw_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- White Students,Y,N,Y
+m_ecoy_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+m_eco1_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Free Meals Students,Y,N,Y
+m_ti1y_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+m_spey_d_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Special Ed Students,Y,N,Y
+r_all_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+r_ethh_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,N
+r_etha_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,N
+r_ethb_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,N
+r_ethw_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,N
+r_ecoy_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+r_eco1_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,N
+r_ti1y_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+r_spey_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,N
+m_all_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+m_ethh_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,N
+m_etha_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,N
+m_ethb_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,N
+m_ethw_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,N
+m_ecoy_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+m_eco1_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,N
+m_ti1y_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+m_spey_rs_g5_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,N
+r_all_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- All Students,Y,N,Y
+r_ethh_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Hispanic/Latino Students,Y,N,Y
+r_etha_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Asian Students,Y,N,Y
+r_ethb_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Black or African American Students,Y,N,Y
+r_ethw_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- White Students,Y,N,Y
+r_ecoy_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+r_eco1_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Free Meals Students,Y,N,Y
+r_ti1y_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+r_spey_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Special Ed Students,Y,N,Y
+m_all_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,Y
+m_ethh_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+m_etha_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Asian Students,Y,N,Y
+m_ethb_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Black or African American Students,Y,N,Y
+m_ethw_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- White Students,Y,N,Y
+m_ecoy_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+m_eco1_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Free Meals Students,Y,N,Y
+m_ti1y_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+m_spey_d_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Special Ed Students,Y,N,Y
+r_all_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+r_ethh_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,N
+r_etha_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,N
+r_ethb_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,N
+r_ethw_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,N
+r_ecoy_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+r_eco1_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,N
+r_ti1y_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+r_spey_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,N
+m_all_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+m_ethh_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,N
+m_etha_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,N
+m_ethb_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,N
+m_ethw_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,N
+m_ecoy_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+m_eco1_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,N
+m_ti1y_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+m_spey_rs_g6_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,N
+r_all_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- All Students,Y,N,Y
+r_ethh_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Hispanic/Latino Students,Y,N,Y
+r_etha_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Asian Students,Y,N,Y
+r_ethb_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Black or African American Students,Y,N,Y
+r_ethw_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- White Students,Y,N,Y
+r_ecoy_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+r_eco1_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Free Meals Students,Y,N,Y
+r_ti1y_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+r_spey_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Special Ed Students,Y,N,Y
+m_all_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,Y
+m_ethh_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+m_etha_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Asian Students,Y,N,Y
+m_ethb_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Black or African American Students,Y,N,Y
+m_ethw_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- White Students,Y,N,Y
+m_ecoy_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+m_eco1_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Free Meals Students,Y,N,Y
+m_ti1y_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+m_spey_d_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Special Ed Students,Y,N,Y
+r_all_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+r_ethh_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,N
+r_etha_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,N
+r_ethb_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,N
+r_ethw_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,N
+r_ecoy_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+r_eco1_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,N
+r_ti1y_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+r_spey_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,N
+m_all_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+m_ethh_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,N
+m_etha_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,N
+m_ethb_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,N
+m_ethw_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,N
+m_ecoy_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+m_eco1_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,N
+m_ti1y_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+m_spey_rs_g7_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,N
+r_all_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- All Students,Y,N,Y
+r_ethh_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Hispanic/Latino Students,Y,N,Y
+r_etha_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Asian Students,Y,N,Y
+r_ethb_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Black or African American Students,Y,N,Y
+r_ethw_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- White Students,Y,N,Y
+r_ecoy_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+r_eco1_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Free Meals Students,Y,N,Y
+r_ti1y_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+r_spey_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- Special Ed Students,Y,N,Y
+m_all_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,Y
+m_ethh_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+m_etha_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Asian Students,Y,N,Y
+m_ethb_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Black or African American Students,Y,N,Y
+m_ethw_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- White Students,Y,N,Y
+m_ecoy_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+m_eco1_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Free Meals Students,Y,N,Y
+m_ti1y_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+m_spey_d_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- Special Ed Students,Y,N,Y
+r_all_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+r_ethh_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,N
+r_etha_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,N
+r_ethb_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,N
+r_ethw_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,N
+r_ecoy_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+r_eco1_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,N
+r_ti1y_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+r_spey_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,N
+m_all_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+m_ethh_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,N
+m_etha_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,N
+m_ethb_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,N
+m_ethw_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,N
+m_ecoy_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+m_eco1_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,N
+m_ti1y_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+m_spey_rs_g8_2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,N
+r_all_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- All Students,Y,N,Y
+r_ethh_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Hispanic/Latino Students,Y,N,Y
+r_etha_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Asian Students,Y,N,Y
+r_ethb_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Black or African American Students,Y,N,Y
+r_ethw_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- White Students,Y,N,Y
+r_ecoy_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+r_eco1_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Free Meals Students,Y,N,Y
+r_ti1y_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+r_spey_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Special Ed Students,Y,N,Y
+m_all_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,Y
+m_ethh_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+m_etha_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Asian Students,Y,N,Y
+m_ethb_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Black or African American Students,Y,N,Y
+m_ethw_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- White Students,Y,N,Y
+m_ecoy_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+m_eco1_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Free Meals Students,Y,N,Y
+m_ti1y_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+m_spey_d_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Special Ed Students,Y,N,Y
+r_all_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+r_ethh_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,N
+r_etha_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,N
+r_ethb_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,N
+r_ethw_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,N
+r_ecoy_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+r_eco1_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,N
+r_ti1y_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+r_spey_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,N
+m_all_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+m_ethh_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,N
+m_etha_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,N
+m_ethb_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,N
+m_ethw_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,N
+m_ecoy_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+m_eco1_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,N
+m_ti1y_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+m_spey_rs_g3_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,N
+r_all_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- All Students,Y,N,Y
+r_ethh_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Hispanic/Latino Students,Y,N,Y
+r_etha_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Asian Students,Y,N,Y
+r_ethb_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Black or African American Students,Y,N,Y
+r_ethw_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- White Students,Y,N,Y
+r_ecoy_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+r_eco1_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Free Meals Students,Y,N,Y
+r_ti1y_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+r_spey_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Special Ed Students,Y,N,Y
+m_all_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,Y
+m_ethh_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+m_etha_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Asian Students,Y,N,Y
+m_ethb_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Black or African American Students,Y,N,Y
+m_ethw_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- White Students,Y,N,Y
+m_ecoy_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+m_eco1_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Free Meals Students,Y,N,Y
+m_ti1y_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+m_spey_d_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Special Ed Students,Y,N,Y
+r_all_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+r_ethh_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,N
+r_etha_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,N
+r_ethb_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,N
+r_ethw_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,N
+r_ecoy_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+r_eco1_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,N
+r_ti1y_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+r_spey_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,N
+m_all_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+m_ethh_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,N
+m_etha_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,N
+m_ethb_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,N
+m_ethw_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,N
+m_ecoy_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+m_eco1_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,N
+m_ti1y_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+m_spey_rs_g4_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,N
+r_all_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- All Students,Y,N,Y
+r_ethh_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Hispanic/Latino Students,Y,N,Y
+r_etha_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Asian Students,Y,N,Y
+r_ethb_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Black or African American Students,Y,N,Y
+r_ethw_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- White Students,Y,N,Y
+r_ecoy_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+r_eco1_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Free Meals Students,Y,N,Y
+r_ti1y_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+r_spey_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Special Ed Students,Y,N,Y
+m_all_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,Y
+m_ethh_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+m_etha_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Asian Students,Y,N,Y
+m_ethb_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Black or African American Students,Y,N,Y
+m_ethw_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- White Students,Y,N,Y
+m_ecoy_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+m_eco1_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Free Meals Students,Y,N,Y
+m_ti1y_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+m_spey_d_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Special Ed Students,Y,N,Y
+r_all_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+r_ethh_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,N
+r_etha_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,N
+r_ethb_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,N
+r_ethw_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,N
+r_ecoy_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+r_eco1_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,N
+r_ti1y_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+r_spey_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,N
+m_all_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+m_ethh_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,N
+m_etha_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,N
+m_ethb_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,N
+m_ethw_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,N
+m_ecoy_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+m_eco1_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,N
+m_ti1y_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+m_spey_rs_g5_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,N
+r_all_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- All Students,Y,N,Y
+r_ethh_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Hispanic/Latino Students,Y,N,Y
+r_etha_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Asian Students,Y,N,Y
+r_ethb_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Black or African American Students,Y,N,Y
+r_ethw_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- White Students,Y,N,Y
+r_ecoy_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+r_eco1_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Free Meals Students,Y,N,Y
+r_ti1y_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+r_spey_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Special Ed Students,Y,N,Y
+m_all_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,Y
+m_ethh_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+m_etha_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Asian Students,Y,N,Y
+m_ethb_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Black or African American Students,Y,N,Y
+m_ethw_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- White Students,Y,N,Y
+m_ecoy_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+m_eco1_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Free Meals Students,Y,N,Y
+m_ti1y_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+m_spey_d_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Special Ed Students,Y,N,Y
+r_all_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+r_ethh_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,N
+r_etha_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,N
+r_ethb_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,N
+r_ethw_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,N
+r_ecoy_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+r_eco1_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,N
+r_ti1y_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+r_spey_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,N
+m_all_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+m_ethh_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,N
+m_etha_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,N
+m_ethb_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,N
+m_ethw_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,N
+m_ecoy_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+m_eco1_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,N
+m_ti1y_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+m_spey_rs_g6_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,N
+r_all_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- All Students,Y,N,Y
+r_ethh_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Hispanic/Latino Students,Y,N,Y
+r_etha_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Asian Students,Y,N,Y
+r_ethb_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Black or African American Students,Y,N,Y
+r_ethw_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- White Students,Y,N,Y
+r_ecoy_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+r_eco1_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Free Meals Students,Y,N,Y
+r_ti1y_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+r_spey_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Special Ed Students,Y,N,Y
+m_all_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,Y
+m_ethh_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+m_etha_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Asian Students,Y,N,Y
+m_ethb_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Black or African American Students,Y,N,Y
+m_ethw_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- White Students,Y,N,Y
+m_ecoy_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+m_eco1_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Free Meals Students,Y,N,Y
+m_ti1y_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+m_spey_d_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Special Ed Students,Y,N,Y
+r_all_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+r_ethh_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,N
+r_etha_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,N
+r_ethb_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,N
+r_ethw_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,N
+r_ecoy_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+r_eco1_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,N
+r_ti1y_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+r_spey_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,N
+m_all_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+m_ethh_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,N
+m_etha_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,N
+m_ethb_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,N
+m_ethw_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,N
+m_ecoy_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+m_eco1_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,N
+m_ti1y_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+m_spey_rs_g7_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,N
+r_all_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- All Students,Y,N,Y
+r_ethh_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Hispanic/Latino Students,Y,N,Y
+r_etha_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Asian Students,Y,N,Y
+r_ethb_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Black or African American Students,Y,N,Y
+r_ethw_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- White Students,Y,N,Y
+r_ecoy_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+r_eco1_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Free Meals Students,Y,N,Y
+r_ti1y_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+r_spey_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- Special Ed Students,Y,N,Y
+m_all_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,Y
+m_ethh_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+m_etha_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Asian Students,Y,N,Y
+m_ethb_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Black or African American Students,Y,N,Y
+m_ethw_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- White Students,Y,N,Y
+m_ecoy_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+m_eco1_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Free Meals Students,Y,N,Y
+m_ti1y_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+m_spey_d_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- Special Ed Students,Y,N,Y
+r_all_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+r_ethh_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,N
+r_etha_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,N
+r_ethb_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,N
+r_ethw_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,N
+r_ecoy_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+r_eco1_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,N
+r_ti1y_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+r_spey_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,N
+m_all_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+m_ethh_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,N
+m_etha_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,N
+m_ethb_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,N
+m_ethw_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,N
+m_ecoy_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,N
+m_eco1_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,N
+m_ti1y_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,N
+m_spey_rs_g8_2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,N
+Labor Force 19,DATA_LAUS_COUNTY.csv,Numeric,number of Labor Force county-level in 2019,Y,N,Y
+Employed 19,DATA_LAUS_COUNTY.csv,Numeric,number of Employed county-level in 2019,Y,N,Y
+Unemployed Level 19,DATA_LAUS_COUNTY.csv,Numeric,Unemployed Level county-level in 2019,Y,N,Y
+Unemployed Rate 19,DATA_LAUS_COUNTY.csv,Numeric,Unemployed Rate county-level in 2019,Y,N,Y
+Labor Force 21,DATA_LAUS_COUNTY.csv,Numeric,number of Labor Force county-level in 2021,Y,N,Y
+Employed 21,DATA_LAUS_COUNTY.csv,Numeric,number of Employed county-level in 2021,Y,N,Y
+Unemployed Level 21,DATA_LAUS_COUNTY.csv,Numeric,Unemployed Level county-level in 2021,Y,N,Y
+Unemployed Rate 21,DATA_LAUS_COUNTY.csv,Numeric,Unemployed Rate county-level in 2021,Y,N,Y
+Labor Force Diff,DATA_LAUS_COUNTY.csv,Numeric,Difference of labor force between 2019 and 2021,Y,Y,N
+Employed Diff,DATA_LAUS_COUNTY.csv,Numeric,Difference of employed between 2019 and 2021,Y,Y,N
+Unemployed Level Diff,DATA_LAUS_COUNTY.csv,Numeric,Difference of unemployment level between 2019 and 2021,Y,Y,N
+Unemployed Rate Diff,DATA_LAUS_COUNTY.csv,Numeric,Difference of unemployment rate between 2019 and 2021,Y,Y,N
+Population 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Population in 2010,Y,N,N
+White Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,White alone population,Y,N,Y
+Black Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Black alone population,Y,N,Y
+Asian Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Asian alone population,Y,N,Y
+Hispanic Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Hispanic population,Y,N,Y
+Male Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Male population,Y,N,Y
+Female Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Female population,Y,N,Y
+Age 0-4 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 0-4 population,Y,N,Y
+Age 5-9 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 5-9 population,Y,N,Y
+Age 10-14 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 10-14 population,Y,N,Y
+Age 15-19 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 15-19 population,Y,N,Y
+Age 20-24 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 20-24 population,Y,N,Y
+Age 25-34 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 25-34 population,Y,N,Y
+Age 35-44 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 35-44 population,Y,N,Y
+Age 45-54 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 45-54 population,Y,N,Y
+Age 55-64 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 55-64 population,Y,N,Y
+Age 65-74 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 65-74 population,Y,N,Y
+Age 75-84 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 75-84 population,Y,N,Y
+Age 85-Up Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 85-UP population,Y,N,Y
+Median Age 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Median age both sexes,Y,Y,Y
+Median Age Male 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Median age of males,Y,Y,Y
+Median Age Female 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Median age of females,Y,Y,Y
+# of Households 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Number of households,Y,Y,Y
+Avg Household Size 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Average household size,Y,Y,Y
+HH 1 Male 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Number of 1-person male households,Y,N,Y
+HH 1 Female 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Number of 1-person female households,Y,N,Y
+HH Married-Child 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Number of married couple households with children,Y,N,Y
+HH Married-noChild 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Number of married couple households with no children,Y,N,Y
+HH Male-Child 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Number of male-headed households with children,Y,N,Y
+HH Female-Child 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Number of female-headed households with children,Y,N,Y
+# of Families 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Number of families,Y,Y,Y
+Avg Family Size 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Average family size,Y,Y,Y
+# of Housing Units 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,"Total number of housing units (H0010001). Sum of VACANT, OWNER_OCC, RENTER_OCC. A housing unit is defined by the Census Bureau as a living quarters in which the occupant or occupants live separately from any other individuals in the building and have direct access to their liiving quarters from outside the building or through a common hall.",Y,Y,Y
+Housing Vacant 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Number of vacant housing units,Y,N,Y
+Housing Owner Occup 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Owner Occupied Housing,Y,N,Y
+Housing Renter Occup 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Renter Occupied Housing,Y,N,Y
+District Enrollment 01/29/21,DATA_COVID_DISTRICT.csv,Numeric,enrollment,Y,N,Y
+Approx. District On-Campus Enrollment 01/29/21,DATA_COVID_DISTRICT.csv,Numeric,enrollment,Y,N,Y
+District Enrollment 10/30/20,DATA_COVID_DISTRICT.csv,Numeric,enrollment,Y,N,Y
+Approx. District On-Campus Enrollment 10/30/20,DATA_COVID_DISTRICT.csv,Numeric,enrollment,Y,N,Y
+District Enrollment 09/28/20,DATA_COVID_DISTRICT.csv,Numeric,enrollment,Y,N,Y
+Approx. District On-Campus Enrollment 09/28/20,DATA_COVID_DISTRICT.csv,Numeric,enrollment,Y,N,Y
+Confirmed Deaths 09/28/20,DATA_COVID_COUNTY.csv,Numeric,covid death cases,Y,N,Y
+Confirmed Deaths 10/30/20,DATA_COVID_COUNTY.csv,Numeric,covid death cases,Y,N,Y
+Confirmed Deaths 01/29/21,DATA_COVID_COUNTY.csv,Numeric,covid death cases,Y,N,Y
+Confirmed Cases 09/28/20,DATA_COVID_COUNTY.csv,Numeric,covid infection cases,Y,N,Y
+Confirmed Cases 10/30/20,DATA_COVID_COUNTY.csv,Numeric,covid infection cases,Y,N,Y
+Confirmed Cases 01/29/21,DATA_COVID_COUNTY.csv,Numeric,covid infection cases,Y,N,Y
+County Population,DATA_COVID_COUNTY.csv,Numeric,County population,Y,Y,Y
+2018-2019 ADA,DATA_ADA_DISTRICT.csv,Numeric,average daily attendance,Y,N,Y
+2020-2021 ADA,DATA_ADA_DISTRICT.csv,Numeric,average daily attendance,Y,N,Y
+CARES ESSER I 20,DATA_ESSER_DISTRICT.csv,Numeric,"Coronavirus Aid, Relief, and Economic Security (CARES) grant amount by TEA in 2020",Y,Y,Y
+CRRSA ESSER II 21,DATA_ESSER_DISTRICT.csv,Numeric,Coronavirus Response and Relief Supplemental Appropriations (CRRSA) grant amount by TEA in 2021,Y,Y,Y
+ARP ESSER III 21,DATA_ESSER_DISTRICT.csv,Numeric,American Rescue Plan Act (ARP) grant amount by TEA in 2021,Y,Y,Y
+ESSER-SUPP 22,DATA_ESSER_DISTRICT.csv,Numeric,Intensive educational supports for students not performing satisfactorily due to Covid pandemic in 2022,Y,Y,Y
+ESSER-SUPP 23,DATA_ESSER_DISTRICT.csv,Numeric,Intensive educational supports for students not performing satisfactorily due to Covid pandemic in 2023,Y,Y,Y
+% Total Operational Public Schools 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,school information,Y,N,N
+% Total Operational Public Schools 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,school information,Y,N,N
+% School-wide Title I 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,number of School-wide Title 1 eligible schools,Y,N,N
+% School-wide Title I 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,number of School-wide Title 1 eligible schools,Y,N,N
+% Title I Eligible School 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,number of School-wide and Targeted assistance Title 1 eligible schools,Y,N,N
+% Title I Eligible School 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,number of School-wide and Targeted assistance Title 1 eligible schools,Y,N,N
+Teachers:Students 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,teacher & staff,Y,N,N
+Teachers:Students 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,teacher & staff,Y,N,N
+Staff:Students 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,teacher & staff,Y,N,N
+Staff:Students 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,teacher & staff,Y,N,N
+% Free Lunch 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,lunch program,Y,N,N
+% Free Lunch 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,lunch program,Y,N,N
+% Reduced-price Lunch 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,lunch program,Y,N,N
+% Reduced-price Lunch 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,lunch program,Y,N,N
+% Asian or Asian/Pacific Islander Students 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,race/total students,Y,N,N
+% Asian or Asian/Pacific Islander Students 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,race/total students,Y,N,N
+% Hispanic Students 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,race/total students,Y,N,N
+% Hispanic Students 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,race/total students,Y,N,N
+% Black or African American Students 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,race/total students,Y,N,N
+% Black or African American Students 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,race/total students,Y,N,N
+% White Students 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,race/total students,Y,N,N
+% White Students 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,race/total students,Y,N,N
+% Grades 1-8 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grades 1-8 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grades 9-12 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grades 9-12 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Prek 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Prek 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% K 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% K 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 1 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 1 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 2 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 2 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 3 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 3 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 4 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 4 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 5 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 5 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 6 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 6 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 7 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 7 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 8 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 8 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 9 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 9 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 10 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 10 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 11 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 11 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 12 2020-2021,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% Grade 12 2018-2019,DATA_NCES_DISTRICT.csv,Numeric,grade/total students,Y,N,N
+% ADA 2018-2019,DATA_ADA_DISTRICT.csv,Numeric,average daily attendance/total students,Y,N,N
+% ADA 2020-2021,DATA_ADA_DISTRICT.csv,Numeric,average daily attendance/total students,Y,N,N
+% Students Tested Math - Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,N
+% Students Tested Reading - Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- All Students,Y,N,N
+% Students Tested Math - Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,N
+% Students Tested Reading - Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- All Students,Y,N,N
+% Students Tested Math - Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,N
+% Students Tested Reading - Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- All Students,Y,N,N
+% Students Tested Math - Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,N
+% Students Tested Reading - Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- All Students,Y,N,N
+% Students Tested Math - Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,N
+% Students Tested Reading - Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- All Students,Y,N,N
+% Students Tested Math - Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,N
+% Students Tested Reading - Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,# Tested -- Reading -- All Students,Y,N,N
+% Students Tested Math - Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,N
+% Students Tested Reading - Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- All Students,Y,N,N
+% Students Tested Math - Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,N
+% Students Tested Reading - Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- All Students,Y,N,N
+% Students Tested Math - Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,N
+% Students Tested Reading - Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- All Students,Y,N,N
+% Students Tested Math - Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,N
+% Students Tested Reading - Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- All Students,Y,N,N
+% Students Tested Math - Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,N
+% Students Tested Reading - Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- All Students,Y,N,N
+% Students Tested Math - Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Mathematics -- All Students,Y,N,N
+% Students Tested Reading - Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,# Tested -- Reading -- All Students,Y,N,N
+Average Score Math All Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+Average Score Reading All Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+Average Score Math Hispanic Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+Average Score Reading Hispanic Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,Y
+Average Score Math Asian Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,Y
+Average Score Reading Asian Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,Y
+Average Score Math Black Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,Y
+Average Score Reading Black Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,Y
+Average Score Math White Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,Y
+Average Score Reading White Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,Y
+Average Score Math Poverty Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Reading Poverty Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Math Free Lunch Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,Y
+Average Score Reading Free Lunch Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,Y
+Average Score Math T1 Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Reading T1 Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Math Special Ed Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,Y
+Average Score Reading Special Ed Grade 3 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,Y
+Average Score Math All Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+Average Score Reading All Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+Average Score Math Hispanic Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+Average Score Reading Hispanic Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,Y
+Average Score Math Asian Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,Y
+Average Score Reading Asian Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,Y
+Average Score Math Black Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,Y
+Average Score Reading Black Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,Y
+Average Score Math White Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,Y
+Average Score Reading White Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,Y
+Average Score Math Poverty Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Reading Poverty Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Math Free Lunch Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,Y
+Average Score Reading Free Lunch Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,Y
+Average Score Math T1 Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Reading T1 Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Math Special Ed Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,Y
+Average Score Reading Special Ed Grade 4 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,Y
+Average Score Math All Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+Average Score Reading All Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+Average Score Math Hispanic Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+Average Score Reading Hispanic Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,Y
+Average Score Math Asian Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,Y
+Average Score Reading Asian Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,Y
+Average Score Math Black Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,Y
+Average Score Reading Black Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,Y
+Average Score Math White Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,Y
+Average Score Reading White Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,Y
+Average Score Math Poverty Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Reading Poverty Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Math Free Lunch Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,Y
+Average Score Reading Free Lunch Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,Y
+Average Score Math T1 Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Reading T1 Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Math Special Ed Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,Y
+Average Score Reading Special Ed Grade 5 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,Y
+Average Score Math All Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+Average Score Reading All Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+Average Score Math Hispanic Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+Average Score Reading Hispanic Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,Y
+Average Score Math Asian Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,Y
+Average Score Reading Asian Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,Y
+Average Score Math Black Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,Y
+Average Score Reading Black Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,Y
+Average Score Math White Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,Y
+Average Score Reading White Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,Y
+Average Score Math Poverty Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Reading Poverty Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Math Free Lunch Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,Y
+Average Score Reading Free Lunch Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,Y
+Average Score Math T1 Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Reading T1 Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Math Special Ed Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,Y
+Average Score Reading Special Ed Grade 6 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,Y
+Average Score Math All Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+Average Score Reading All Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+Average Score Math Hispanic Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+Average Score Reading Hispanic Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,Y
+Average Score Math Asian Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,Y
+Average Score Reading Asian Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,Y
+Average Score Math Black Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,Y
+Average Score Reading Black Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,Y
+Average Score Math White Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,Y
+Average Score Reading White Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,Y
+Average Score Math Poverty Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Reading Poverty Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Math Free Lunch Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,Y
+Average Score Reading Free Lunch Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,Y
+Average Score Math T1 Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Reading T1 Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Math Special Ed Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,Y
+Average Score Reading Special Ed Grade 7 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,Y
+Average Score Math All Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+Average Score Reading All Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+Average Score Math Hispanic Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+Average Score Reading Hispanic Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,Y
+Average Score Math Asian Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,Y
+Average Score Reading Asian Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,Y
+Average Score Math Black Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,Y
+Average Score Reading Black Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,Y
+Average Score Math White Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,Y
+Average Score Reading White Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,Y
+Average Score Math Poverty Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Reading Poverty Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Math Free Lunch Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,Y
+Average Score Reading Free Lunch Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,Y
+Average Score Math T1 Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Reading T1 Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Math Special Ed Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,Y
+Average Score Reading Special Ed Grade 8 2018-2019,DATA_STAAR_DISTRICT_2019.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,Y
+Average Score Math All Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+Average Score Reading All Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+Average Score Math Hispanic Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+Average Score Reading Hispanic Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,Y
+Average Score Math Asian Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,Y
+Average Score Reading Asian Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,Y
+Average Score Math Black Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,Y
+Average Score Reading Black Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,Y
+Average Score Math White Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,Y
+Average Score Reading White Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,Y
+Average Score Math Poverty Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Reading Poverty Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Math Free Lunch Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,Y
+Average Score Reading Free Lunch Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,Y
+Average Score Math T1 Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Reading T1 Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Math Special Ed Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,Y
+Average Score Reading Special Ed Grade 3 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,Y
+Average Score Math All Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+Average Score Reading All Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+Average Score Math Hispanic Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+Average Score Reading Hispanic Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,Y
+Average Score Math Asian Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,Y
+Average Score Reading Asian Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,Y
+Average Score Math Black Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,Y
+Average Score Reading Black Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,Y
+Average Score Math White Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,Y
+Average Score Reading White Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,Y
+Average Score Math Poverty Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Reading Poverty Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Math Free Lunch Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,Y
+Average Score Reading Free Lunch Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,Y
+Average Score Math T1 Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Reading T1 Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Math Special Ed Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,Y
+Average Score Reading Special Ed Grade 4 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,Y
+Average Score Math All Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+Average Score Reading All Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+Average Score Math Hispanic Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+Average Score Reading Hispanic Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,Y
+Average Score Math Asian Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,Y
+Average Score Reading Asian Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,Y
+Average Score Math Black Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,Y
+Average Score Reading Black Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,Y
+Average Score Math White Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,Y
+Average Score Reading White Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,Y
+Average Score Math Poverty Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Reading Poverty Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Math Free Lunch Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,Y
+Average Score Reading Free Lunch Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,Y
+Average Score Math T1 Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Reading T1 Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Math Special Ed Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,Y
+Average Score Reading Special Ed Grade 5 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,Y
+Average Score Math All Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+Average Score Reading All Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+Average Score Math Hispanic Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+Average Score Reading Hispanic Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,Y
+Average Score Math Asian Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,Y
+Average Score Reading Asian Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,Y
+Average Score Math Black Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,Y
+Average Score Reading Black Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,Y
+Average Score Math White Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,Y
+Average Score Reading White Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,Y
+Average Score Math Poverty Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Reading Poverty Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Math Free Lunch Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,Y
+Average Score Reading Free Lunch Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,Y
+Average Score Math T1 Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Reading T1 Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Math Special Ed Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,Y
+Average Score Reading Special Ed Grade 6 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,Y
+Average Score Math All Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+Average Score Reading All Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+Average Score Math Hispanic Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+Average Score Reading Hispanic Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,Y
+Average Score Math Asian Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,Y
+Average Score Reading Asian Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,Y
+Average Score Math Black Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,Y
+Average Score Reading Black Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,Y
+Average Score Math White Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,Y
+Average Score Reading White Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,Y
+Average Score Math Poverty Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Reading Poverty Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Math Free Lunch Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,Y
+Average Score Reading Free Lunch Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,Y
+Average Score Math T1 Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Reading T1 Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Math Special Ed Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,Y
+Average Score Reading Special Ed Grade 7 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,Y
+Average Score Math All Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- All Students,Y,N,N
+Average Score Reading All Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- All Students,Y,N,N
+Average Score Math Hispanic Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Hispanic/Latino Students,Y,N,Y
+Average Score Reading Hispanic Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Hispanic/Latino Students,Y,N,Y
+Average Score Math Asian Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Asian Students,Y,N,Y
+Average Score Reading Asian Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Asian Students,Y,N,Y
+Average Score Math Black Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Black or African American Students,Y,N,Y
+Average Score Reading Black Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Black or African American Students,Y,N,Y
+Average Score Math White Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- White Students,Y,N,Y
+Average Score Reading White Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- White Students,Y,N,Y
+Average Score Math Poverty Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Reading Poverty Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Econ Disadv Students Codes: 1 2 9,Y,N,Y
+Average Score Math Free Lunch Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Free Meals Students,Y,N,Y
+Average Score Reading Free Lunch Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Free Meals Students,Y,N,Y
+Average Score Math T1 Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Reading T1 Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Title-I Participant Students Codes: 6 7 9,Y,N,Y
+Average Score Math Special Ed Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Mathematics -- Special Ed Students,Y,N,Y
+Average Score Reading Special Ed Grade 8 2020-2021,DATA_STAAR_DISTRICT_2021.csv,Numeric,Average Scale Score -- Reading -- Special Ed Students,Y,N,Y
+% County Infected 09/28/20,DATA_COVID_COUNTY.csv,Numeric,covid infection cases/county population,Y,Y,N
+% County Deaths 09/28/20,DATA_COVID_COUNTY.csv,Numeric,covid death cases/county population,Y,Y,N
+% County Infected 10/30/20,DATA_COVID_COUNTY.csv,Numeric,covid infection cases/county population,Y,Y,N
+% County Deaths 10/30/20,DATA_COVID_COUNTY.csv,Numeric,covid death cases/county population,Y,Y,N
+% County Infected 01/29/21,DATA_COVID_COUNTY.csv,Numeric,covid infection cases/county population,Y,Y,N
+% County Deaths 01/29/21,DATA_COVID_COUNTY.csv,Numeric,covid death cases/county population,Y,Y,N
+% On Campus 09/28/20,DATA_COVID_DISTRICT.csv,Numeric,Approx. District On-Campus Enrollment/county population,Y,Y,N
+% On Campus 10/30/20,DATA_COVID_DISTRICT.csv,Numeric,Approx. District On-Campus Enrollment/county population,Y,Y,N
+% On Campus 01/29/21,DATA_COVID_DISTRICT.csv,Numeric,Approx. District On-Campus Enrollment/county population,Y,Y,N
+% White Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,White alone population,Y,Y,N
+% Black Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Black alone population,Y,Y,N
+% Asian Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Asian alone population,Y,Y,N
+% Hispanic Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Hispanic population,Y,Y,N
+% Male Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Male population,Y,Y,N
+% Female Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Female population,Y,Y,N
+% Age 0-4 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 0-4 population,Y,Y,N
+% Age 5-9 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 5-9 population,Y,Y,N
+% Age 10-14 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 10-14 population,Y,Y,N
+% Age 15-19 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 15-19 population,Y,Y,N
+% Age 20-24 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 20-24 population,Y,Y,N
+% Age 25-34 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 25-34 population,Y,Y,N
+% Age 35-44 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 35-44 population,Y,Y,N
+% Age 45-54 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 45-54 population,Y,Y,N
+% Age 55-64 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 55-64 population,Y,Y,N
+% Age 65-74 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 65-74 population,Y,Y,N
+% Age 75-84 Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 75-84 population,Y,Y,N
+% Age 85-Up Pop 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Age 85-UP population,Y,Y,N
+% HH 1 Male 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Number of 1-person male households,Y,Y,N
+% HH 1 Female 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Number of 1-person female households,Y,Y,N
+% HH Married-Child 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Number of married couple households with children,Y,Y,N
+% HH Married-noChild 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Number of married couple households with no children,Y,Y,N
+% HH Male-Child 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Number of male-headed households with children,Y,Y,N
+% HH Female-Child 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Number of female-headed households with children,Y,Y,N
+% Housing Vacant 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Number of vacant housing units,Y,Y,N
+% Housing Owner Occup 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Owner Occupied Housing,Y,Y,N
+% Housing Renter Occup 10,DATA_Census_Block_Group_2010_TX_County.csv,Numeric,Renter Occupied Housing,Y,Y,N
+Total Schools Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of the number of schools between 2019 and 2021,Y,Y,N
+Total Students Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of the number of students between 2019 and 2021,Y,Y,N
+% Operational Schools Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of operational schools ratio between 2019 and 2021,Y,Y,N
+% Title 1 School-wide Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of Title 1 school-wide eligible school ratio between 2019 and 2021,Y,Y,N
+% Title 1 Eligible Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of Title 1 targeted assistance eligible school ratio between 2019 and 2021,Y,Y,N
+Teachers:Students Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of Full-time teachers and students ratio between 2019 and 2021,Y,Y,N
+Staff:Students Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of staffs and students ratio between 2019 and 2021,Y,Y,N
+% Free Lunch Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of free lunch porgram eligible school ratio between 2019 and 2021,Y,Y,N
+% Reduced-price Lunch Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of reduced-price lunch eligible student ratio between 2019 and 2021,Y,Y,N
+% Asian Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of hispanic student ratio between 2019 and 2021,Y,Y,N
+% Hispanic Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of Hispanic student ratio between 2019 and 2021,Y,Y,N
+% Black Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of black student ratio between 2019 and 2021,Y,Y,N
+% White Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of white student ratio between 2019 and 2021,Y,Y,N
+% Grades 1-8 Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of grades 1-8 student ratio between 2019 and 2021,Y,Y,N
+% Grades 9-12 Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of grades 9-12 student ratio between 2019 and 2021,Y,Y,N
+% Prek Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of pre-k student ratio between 2019 and 2021,Y,Y,N
+% Kinder Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of kindergarten student ratio between 2019 and 2021,Y,Y,N
+% ADA Diff,DATA_ADA_DISTRICT.csv,Numeric,Difference of average daily attendance ratio between 2019 and 2021,Y,Y,N
+% Tested Math G3 Diff,DATA_STAAR_DISTRICT_2021.csv,Numeric,Difference of ratio of grade 3 student tested math exam between 2019 and 2021,Y,Y,N
+% Tested Reading G3 Diff,DATA_STAAR_DISTRICT_2021.csv,Numeric,Difference of ratio of grade 3 student tested reading exam between 2019 and 2021,Y,Y,N
+% Tested Math G4 Diff,DATA_STAAR_DISTRICT_2021.csv,Numeric,Difference of ratio of grade 4 student tested math exam between 2019 and 2021,Y,Y,N
+% Tested Reading G4 Diff,DATA_STAAR_DISTRICT_2021.csv,Numeric,Difference of ratio of grade 4 student tested reading exam between 2019 and 2021,Y,Y,N
+% Tested Math G5 Diff,DATA_STAAR_DISTRICT_2021.csv,Numeric,Difference of ratio of grade 5 student tested math exam between 2019 and 2021,Y,Y,N
+% Tested Reading G5 Diff,DATA_STAAR_DISTRICT_2021.csv,Numeric,Difference of ratio of grade 5 student tested reading exam between 2019 and 2021,Y,Y,N
+% Tested Math G6 Diff,DATA_STAAR_DISTRICT_2021.csv,Numeric,Difference of ratio of grade 6 student tested math exam between 2019 and 2021,Y,Y,N
+% Tested Reading G6 Diff,DATA_STAAR_DISTRICT_2021.csv,Numeric,Difference of ratio of grade 6 student tested reading exam between 2019 and 2021,Y,Y,N
+% Tested Math G7 Diff,DATA_STAAR_DISTRICT_2021.csv,Numeric,Difference of ratio of grade 7 student tested math exam between 2019 and 2021,Y,Y,N
+% Tested Reading G7 Diff,DATA_STAAR_DISTRICT_2021.csv,Numeric,Difference of ratio of grade 7 student tested reading exam between 2019 and 2021,Y,Y,N
+% Tested Math G8 Diff,DATA_STAAR_DISTRICT_2021.csv,Numeric,Difference of ratio of grade 8 student tested math exam between 2019 and 2021,Y,Y,N
+% Tested Reading G8 Diff,DATA_STAAR_DISTRICT_2021.csv,Numeric,Difference of ratio of grade 8 student tested reading exam between 2019 and 2021,Y,Y,N
+% Grade 1 Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of ratio of grade 1 students between 2019 and 2021,Y,N,N
+% Grade 2 Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of ratio of grade 2 students between 2019 and 2021,Y,N,N
+% Grade 3 Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of ratio of grade 3 students between 2019 and 2021,Y,N,N
+% Grade 4 Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of ratio of grade 4 students between 2019 and 2021,Y,N,N
+% Grade 5 Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of ratio of grade 5 students between 2019 and 2021,Y,N,N
+% Grade 6 Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of ratio of grade 6 students between 2019 and 2021,Y,N,N
+% Grade 7 Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of ratio of grade 7 students between 2019 and 2021,Y,N,N
+% Grade 8 Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of ratio of grade 8 students between 2019 and 2021,Y,N,N
+% Grade 9 Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of ratio of grade 9 students between 2019 and 2021,Y,N,N
+% Grade 10 Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of ratio of grade 10 students between 2019 and 2021,Y,N,N
+% Grade 11 Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of ratio of grade 11 students between 2019 and 2021,Y,N,N
+% Grade 12 Diff,DATA_NCES_DISTRICT.csv,Numeric,Difference of ratio of grade 12 students between 2019 and 2021,Y,N,N
+AVG_Math_2019,,Numeric,Average math score for grade 3-8 2019,Y,N,N
+AVG_Reading_2019,,Numeric,Average reading score for grade 3-8 2019,Y,N,N
+AVG_Math_2021,,Numeric,Average math score for grade 3-8 2021,Y,N,N
+AVG_Reading_2021,,Numeric,Average reading score for grade 3-8 2021,Y,N,N
+% LOSS Math,,Numeric,Average 2021 - Average 2019 / Avergage 2019,Y,N,N
+% LOSS Reading,,Numeric,Average 2021 - Average 2019 / Avergage 2019,Y,N,N
+% LOSS All,,Numeric,Average 2021 - Average 2019 / Avergage 2019,Y,N,N
+Label_Math,,Numeric,Label for math,Y,Y,Y
+Label_Reading,,Numeric,Label for reading,Y,Y,Y
+Label_All,,Numeric,Label for math and reading,Y,Y,Y
