@@ -1,7 +1,7 @@
 # Gradient Boosting Modeling Improvement Project #2 [Identifying Resilience Factors in Texas Public Schools]
 **Data Science Pipeline for Integrating, Analyzing and Modeling Open Source Tabular Data**
 
-_Developed for the [Identifying Resilience Factors in Texas Public Schools](docs/2022Fall-CHERR-Poster.pdf) project_ by [June Yu](https://j-y-yu.github.io/), (data integration, analysis, and modeling), [Daniel Payan](https://github.com/danielpayan13) ([dashboard author](https://github.com/DataLab12/resilienceDashboardsTX)), [Li Feng](https://lifeng.wp.txstate.edu/) (domain expert), and [Jelena Tešić](jtesic.github.io) (project lead). The work has been supported by [The Center of Excellence for Community Health and Economic Resilience Research](https://www.cherr.txst.edu/) and [Data Lab](https://DataLab12.github.io) @ Texas State University.
+_Developed for the [Identifying Resilience Factors in Texas Public Schools](docs/2022Fall-CHERR-Poster.pdf) project_ by [June Yu](https://www.linkedin.com/in/j-y-yu/), (data integration, analysis, and modeling), [Daniel Payan](https://github.com/danielpayan13) ([dashboard author](https://github.com/DataLab12/resilienceDashboardsTX)), [Li Feng](https://lifeng.wp.txstate.edu/) (domain expert), and [Jelena Tešić](jtesic.github.io) (project lead). The work has been supported by [The Center of Excellence for Community Health and Economic Resilience Research](https://www.cherr.txst.edu/) and [Data Lab](https://DataLab12.github.io) @ Texas State University.
 
 ## [data](data)
 Cleaning all raw data
