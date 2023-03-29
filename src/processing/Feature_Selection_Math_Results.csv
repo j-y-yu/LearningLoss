@@ -1,0 +1,811 @@
+feature,method,model,score,score_type,selected,Method
+Labor Force Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+Employed Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+Unemployed Level Diff,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+Unemployed Rate Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+Median Age 10,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+Median Age Male 10,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+Median Age Female 10,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+# of Households 10,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+Avg Household Size 10,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+# of Families 10,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+Avg Family Size 10,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+# of Housing Units 10,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+County Population,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+CARES ESSER I 20,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+CRRSA ESSER II 21,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+ARP ESSER III 21,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+ESSER-SUPP 22,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+ESSER-SUPP 23,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+% County Infected 09/28/20,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% County Deaths 09/28/20,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% County Infected 10/30/20,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% County Deaths 10/30/20,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% County Infected 01/29/21,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% County Deaths 01/29/21,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% On Campus 09/28/20,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% On Campus 10/30/20,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% On Campus 01/29/21,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% White Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Black Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Asian Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Hispanic Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Male Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Female Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Age 0-4 Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Age 5-9 Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Age 10-14 Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Age 15-19 Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Age 20-24 Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Age 25-34 Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Age 35-44 Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Age 45-54 Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Age 55-64 Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Age 65-74 Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Age 75-84 Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Age 85-Up Pop 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% HH 1 Male 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% HH 1 Female 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% HH Married-Child 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% HH Married-noChild 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% HH Male-Child 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% HH Female-Child 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Housing Vacant 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Housing Owner Occup 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Housing Renter Occup 10,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+Total Schools Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+Total Students Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Operational Schools Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Title 1 School-wide Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Title 1 Eligible Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+Teachers:Students Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+Staff:Students Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Free Lunch Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Reduced-price Lunch Diff,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+% Asian Diff,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+% Hispanic Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Black Diff,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+% White Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Grades 1-8 Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Grades 9-12 Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Prek Diff,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+% Kinder Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% ADA Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Tested Math G3 Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Tested Math G4 Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Tested Math G5 Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Tested Math G6 Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Tested Math G7 Diff,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+% Tested Math G8 Diff,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+Locale_11-City: Large,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+Locale_12-City: Mid-size,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+Locale_13-City: Small,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+Locale_21-Suburb: Large,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+Locale_22-Suburb: Mid-size,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+Locale_23-Suburb: Small,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+Locale_31-Town: Fringe,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+Locale_32-Town: Distant,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+Locale_33-Town: Remote,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+Locale_41-Rural: Fringe,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+Locale_42-Rural: Distant,Variance Threshold,N/A,1.0,N/A,1,Variance Threshold
+Locale_43-Rural: Remote,Variance Threshold,N/A,0.0,N/A,0,Variance Threshold
+# of Families 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+# of Households 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+# of Housing Units 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% ADA Diff,Regularization,Lasso,0.10127290884961325,N/A,1,Regularization - Lasso
+% Age 0-4 Pop 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% Age 10-14 Pop 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% Age 15-19 Pop 10,Regularization,Lasso,-0.004314803187298083,N/A,1,Regularization - Lasso
+% Age 20-24 Pop 10,Regularization,Lasso,0.04254020816476298,N/A,1,Regularization - Lasso
+% Age 25-34 Pop 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% Age 35-44 Pop 10,Regularization,Lasso,0.032677264016546796,N/A,1,Regularization - Lasso
+% Age 45-54 Pop 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% Age 5-9 Pop 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% Age 55-64 Pop 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% Age 65-74 Pop 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% Age 75-84 Pop 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% Age 85-Up Pop 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% Asian Diff,Regularization,Lasso,-0.06326626993330389,N/A,1,Regularization - Lasso
+% Asian Pop 10,Regularization,Lasso,-0.10813163993421891,N/A,1,Regularization - Lasso
+% Black Diff,Regularization,Lasso,-0.015169551361057666,N/A,1,Regularization - Lasso
+% Black Pop 10,Regularization,Lasso,-0.009815163317257083,N/A,1,Regularization - Lasso
+% County Deaths 01/29/21,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% County Deaths 09/28/20,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% County Deaths 10/30/20,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% County Infected 01/29/21,Regularization,Lasso,-0.0212507853153044,N/A,1,Regularization - Lasso
+% County Infected 09/28/20,Regularization,Lasso,-0.007074329646472935,N/A,1,Regularization - Lasso
+% County Infected 10/30/20,Regularization,Lasso,0.027702416606624064,N/A,1,Regularization - Lasso
+% Female Pop 10,Regularization,Lasso,-0.0015336742511164213,N/A,1,Regularization - Lasso
+% Free Lunch Diff,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% Grades 1-8 Diff,Regularization,Lasso,-0.016472122701031586,N/A,1,Regularization - Lasso
+% Grades 9-12 Diff,Regularization,Lasso,-0.037723655932879706,N/A,1,Regularization - Lasso
+% HH 1 Female 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% HH 1 Male 10,Regularization,Lasso,-0.007303834380902986,N/A,1,Regularization - Lasso
+% HH Female-Child 10,Regularization,Lasso,-0.04952335879408671,N/A,1,Regularization - Lasso
+% HH Male-Child 10,Regularization,Lasso,0.040012154110557266,N/A,1,Regularization - Lasso
+% HH Married-Child 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% HH Married-noChild 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% Hispanic Diff,Regularization,Lasso,0.031711744998819645,N/A,1,Regularization - Lasso
+% Hispanic Pop 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% Housing Owner Occup 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% Housing Renter Occup 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% Housing Vacant 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% Kinder Diff,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% Male Pop 10,Regularization,Lasso,0.0013978060156616568,N/A,1,Regularization - Lasso
+% On Campus 01/29/21,Regularization,Lasso,-0.06992161691392418,N/A,1,Regularization - Lasso
+% On Campus 09/28/20,Regularization,Lasso,0.24680641866591863,N/A,1,Regularization - Lasso
+% On Campus 10/30/20,Regularization,Lasso,-0.1761044844245953,N/A,1,Regularization - Lasso
+% Operational Schools Diff,Regularization,Lasso,-0.0038425477477208037,N/A,1,Regularization - Lasso
+% Prek Diff,Regularization,Lasso,0.009371303058011371,N/A,1,Regularization - Lasso
+% Reduced-price Lunch Diff,Regularization,Lasso,-0.001228215301191618,N/A,1,Regularization - Lasso
+% Tested Math G3 Diff,Regularization,Lasso,0.013729148564400797,N/A,1,Regularization - Lasso
+% Tested Math G4 Diff,Regularization,Lasso,-0.04346565893637622,N/A,1,Regularization - Lasso
+% Tested Math G5 Diff,Regularization,Lasso,0.11096655582747343,N/A,1,Regularization - Lasso
+% Tested Math G6 Diff,Regularization,Lasso,-0.07451681149027757,N/A,1,Regularization - Lasso
+% Tested Math G7 Diff,Regularization,Lasso,0.013752840461105156,N/A,1,Regularization - Lasso
+% Tested Math G8 Diff,Regularization,Lasso,0.006437158466268392,N/A,1,Regularization - Lasso
+% Title 1 Eligible Diff,Regularization,Lasso,-0.0382555492838988,N/A,1,Regularization - Lasso
+% Title 1 School-wide Diff,Regularization,Lasso,-0.017541886983931845,N/A,1,Regularization - Lasso
+% White Diff,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+% White Pop 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+ARP ESSER III 21,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+Avg Family Size 10,Regularization,Lasso,-0.038007953485773065,N/A,1,Regularization - Lasso
+Avg Household Size 10,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+CARES ESSER I 20,Regularization,Lasso,0.027414880654192134,N/A,1,Regularization - Lasso
+CRRSA ESSER II 21,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+County Population,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+ESSER-SUPP 22,Regularization,Lasso,0.06537442325607508,N/A,1,Regularization - Lasso
+ESSER-SUPP 23,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+Employed Diff,Regularization,Lasso,0.0634895682165168,N/A,1,Regularization - Lasso
+Labor Force Diff,Regularization,Lasso,-0.09558058059648292,N/A,1,Regularization - Lasso
+Locale_11-City: Large,Regularization,Lasso,-0.027225074033831245,N/A,1,Regularization - Lasso
+Locale_12-City: Mid-size,Regularization,Lasso,-0.01456479276782035,N/A,1,Regularization - Lasso
+Locale_13-City: Small,Regularization,Lasso,-0.02959261155397426,N/A,1,Regularization - Lasso
+Locale_21-Suburb: Large,Regularization,Lasso,-0.11712820389489836,N/A,1,Regularization - Lasso
+Locale_22-Suburb: Mid-size,Regularization,Lasso,0.042275523809475274,N/A,1,Regularization - Lasso
+Locale_23-Suburb: Small,Regularization,Lasso,0.05592388173788938,N/A,1,Regularization - Lasso
+Locale_31-Town: Fringe,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+Locale_32-Town: Distant,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+Locale_33-Town: Remote,Regularization,Lasso,-0.04465077710240255,N/A,1,Regularization - Lasso
+Locale_41-Rural: Fringe,Regularization,Lasso,-0.012922176667112518,N/A,1,Regularization - Lasso
+Locale_42-Rural: Distant,Regularization,Lasso,-0.09126803242032776,N/A,1,Regularization - Lasso
+Locale_43-Rural: Remote,Regularization,Lasso,-0.07683759393262363,N/A,1,Regularization - Lasso
+Median Age 10,Regularization,Lasso,0.04049388187896119,N/A,1,Regularization - Lasso
+Median Age Female 10,Regularization,Lasso,0.06930138395685352,N/A,1,Regularization - Lasso
+Median Age Male 10,Regularization,Lasso,0.02984992092920205,N/A,1,Regularization - Lasso
+Staff:Students Diff,Regularization,Lasso,0.024961613365127415,N/A,1,Regularization - Lasso
+Teachers:Students Diff,Regularization,Lasso,-0.002338295311402519,N/A,1,Regularization - Lasso
+Total Schools Diff,Regularization,Lasso,-0.005932337650787431,N/A,1,Regularization - Lasso
+Total Students Diff,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+Unemployed Level Diff,Regularization,Lasso,-0.034368790271815365,N/A,1,Regularization - Lasso
+Unemployed Rate Diff,Regularization,Lasso,0.0,N/A,0,Regularization - Lasso
+Labor Force Diff,Feature Importance,Random Forest,0.009035348850641575,importances,1,Feature Importance - Random Forest
+Employed Diff,Feature Importance,Random Forest,0.008077493251652728,importances,0,Feature Importance - Random Forest
+Unemployed Level Diff,Feature Importance,Random Forest,0.007706714152110336,importances,0,Feature Importance - Random Forest
+Unemployed Rate Diff,Feature Importance,Random Forest,0.008064662803992184,importances,0,Feature Importance - Random Forest
+Median Age 10,Feature Importance,Random Forest,0.0103948265885733,importances,1,Feature Importance - Random Forest
+Median Age Male 10,Feature Importance,Random Forest,0.015088197254959001,importances,1,Feature Importance - Random Forest
+Median Age Female 10,Feature Importance,Random Forest,0.0122128141590951,importances,1,Feature Importance - Random Forest
+# of Households 10,Feature Importance,Random Forest,0.009528443591570986,importances,1,Feature Importance - Random Forest
+Avg Household Size 10,Feature Importance,Random Forest,0.012647344550124047,importances,1,Feature Importance - Random Forest
+# of Families 10,Feature Importance,Random Forest,0.010319443417485247,importances,1,Feature Importance - Random Forest
+Avg Family Size 10,Feature Importance,Random Forest,0.014403873203108177,importances,1,Feature Importance - Random Forest
+# of Housing Units 10,Feature Importance,Random Forest,0.009179773993110867,importances,1,Feature Importance - Random Forest
+County Population,Feature Importance,Random Forest,0.011618255084575656,importances,1,Feature Importance - Random Forest
+CARES ESSER I 20,Feature Importance,Random Forest,0.018931605431272255,importances,1,Feature Importance - Random Forest
+CRRSA ESSER II 21,Feature Importance,Random Forest,0.019074739629629932,importances,1,Feature Importance - Random Forest
+ARP ESSER III 21,Feature Importance,Random Forest,0.01609707783104569,importances,1,Feature Importance - Random Forest
+ESSER-SUPP 22,Feature Importance,Random Forest,0.002599579863503841,importances,0,Feature Importance - Random Forest
+ESSER-SUPP 23,Feature Importance,Random Forest,0.0023837505414519614,importances,0,Feature Importance - Random Forest
+% County Infected 09/28/20,Feature Importance,Random Forest,0.008996935724867787,importances,1,Feature Importance - Random Forest
+% County Deaths 09/28/20,Feature Importance,Random Forest,0.006462465670115905,importances,0,Feature Importance - Random Forest
+% County Infected 10/30/20,Feature Importance,Random Forest,0.009790978652531663,importances,1,Feature Importance - Random Forest
+% County Deaths 10/30/20,Feature Importance,Random Forest,0.007837638033126754,importances,0,Feature Importance - Random Forest
+% County Infected 01/29/21,Feature Importance,Random Forest,0.009280643356332809,importances,1,Feature Importance - Random Forest
+% County Deaths 01/29/21,Feature Importance,Random Forest,0.008920488018283525,importances,0,Feature Importance - Random Forest
+% On Campus 09/28/20,Feature Importance,Random Forest,0.04270145040459204,importances,1,Feature Importance - Random Forest
+% On Campus 10/30/20,Feature Importance,Random Forest,0.04384746426086782,importances,1,Feature Importance - Random Forest
+% On Campus 01/29/21,Feature Importance,Random Forest,0.03615873126132474,importances,1,Feature Importance - Random Forest
+% White Pop 10,Feature Importance,Random Forest,0.010116479227210822,importances,1,Feature Importance - Random Forest
+% Black Pop 10,Feature Importance,Random Forest,0.009395106119201264,importances,1,Feature Importance - Random Forest
+% Asian Pop 10,Feature Importance,Random Forest,0.007610929396990194,importances,0,Feature Importance - Random Forest
+% Hispanic Pop 10,Feature Importance,Random Forest,0.009106026416010524,importances,1,Feature Importance - Random Forest
+% Male Pop 10,Feature Importance,Random Forest,0.008793244028107963,importances,0,Feature Importance - Random Forest
+% Female Pop 10,Feature Importance,Random Forest,0.006833934039120801,importances,0,Feature Importance - Random Forest
+% Age 0-4 Pop 10,Feature Importance,Random Forest,0.010038152834873271,importances,1,Feature Importance - Random Forest
+% Age 5-9 Pop 10,Feature Importance,Random Forest,0.007668625261046141,importances,0,Feature Importance - Random Forest
+% Age 10-14 Pop 10,Feature Importance,Random Forest,0.008330194547714147,importances,0,Feature Importance - Random Forest
+% Age 15-19 Pop 10,Feature Importance,Random Forest,0.007838754528981622,importances,0,Feature Importance - Random Forest
+% Age 20-24 Pop 10,Feature Importance,Random Forest,0.007087498628905976,importances,0,Feature Importance - Random Forest
+% Age 25-34 Pop 10,Feature Importance,Random Forest,0.006975295963766025,importances,0,Feature Importance - Random Forest
+% Age 35-44 Pop 10,Feature Importance,Random Forest,0.006250002972171074,importances,0,Feature Importance - Random Forest
+% Age 45-54 Pop 10,Feature Importance,Random Forest,0.008530017596030094,importances,0,Feature Importance - Random Forest
+% Age 55-64 Pop 10,Feature Importance,Random Forest,0.007307430492640644,importances,0,Feature Importance - Random Forest
+% Age 65-74 Pop 10,Feature Importance,Random Forest,0.009445511774288505,importances,1,Feature Importance - Random Forest
+% Age 75-84 Pop 10,Feature Importance,Random Forest,0.007666105744176177,importances,0,Feature Importance - Random Forest
+% Age 85-Up Pop 10,Feature Importance,Random Forest,0.008505179493294665,importances,0,Feature Importance - Random Forest
+% HH 1 Male 10,Feature Importance,Random Forest,0.007622251614804381,importances,0,Feature Importance - Random Forest
+% HH 1 Female 10,Feature Importance,Random Forest,0.0070919896367126175,importances,0,Feature Importance - Random Forest
+% HH Married-Child 10,Feature Importance,Random Forest,0.007604767998087142,importances,0,Feature Importance - Random Forest
+% HH Married-noChild 10,Feature Importance,Random Forest,0.013167443637133175,importances,1,Feature Importance - Random Forest
+% HH Male-Child 10,Feature Importance,Random Forest,0.007039491557027576,importances,0,Feature Importance - Random Forest
+% HH Female-Child 10,Feature Importance,Random Forest,0.008241854873383563,importances,0,Feature Importance - Random Forest
+% Housing Vacant 10,Feature Importance,Random Forest,0.008202656867408953,importances,0,Feature Importance - Random Forest
+% Housing Owner Occup 10,Feature Importance,Random Forest,0.007842894619623203,importances,0,Feature Importance - Random Forest
+% Housing Renter Occup 10,Feature Importance,Random Forest,0.007853840536476316,importances,0,Feature Importance - Random Forest
+Total Schools Diff,Feature Importance,Random Forest,0.004638868238232879,importances,0,Feature Importance - Random Forest
+Total Students Diff,Feature Importance,Random Forest,0.020310575257714722,importances,1,Feature Importance - Random Forest
+% Operational Schools Diff,Feature Importance,Random Forest,0.004410324116142783,importances,0,Feature Importance - Random Forest
+% Title 1 School-wide Diff,Feature Importance,Random Forest,0.004621939602685856,importances,0,Feature Importance - Random Forest
+% Title 1 Eligible Diff,Feature Importance,Random Forest,0.005620045624435522,importances,0,Feature Importance - Random Forest
+Teachers:Students Diff,Feature Importance,Random Forest,0.016857218334026213,importances,1,Feature Importance - Random Forest
+Staff:Students Diff,Feature Importance,Random Forest,0.022300554675146946,importances,1,Feature Importance - Random Forest
+% Free Lunch Diff,Feature Importance,Random Forest,0.015722692356911823,importances,1,Feature Importance - Random Forest
+% Reduced-price Lunch Diff,Feature Importance,Random Forest,0.016336766115361074,importances,1,Feature Importance - Random Forest
+% Asian Diff,Feature Importance,Random Forest,0.016168126502814052,importances,1,Feature Importance - Random Forest
+% Hispanic Diff,Feature Importance,Random Forest,0.017541394161477535,importances,1,Feature Importance - Random Forest
+% Black Diff,Feature Importance,Random Forest,0.015136017448643513,importances,1,Feature Importance - Random Forest
+% White Diff,Feature Importance,Random Forest,0.018648404043932577,importances,1,Feature Importance - Random Forest
+% Grades 1-8 Diff,Feature Importance,Random Forest,0.01646572389082484,importances,1,Feature Importance - Random Forest
+% Grades 9-12 Diff,Feature Importance,Random Forest,0.014777642175720425,importances,1,Feature Importance - Random Forest
+% Prek Diff,Feature Importance,Random Forest,0.018515223373396686,importances,1,Feature Importance - Random Forest
+% Kinder Diff,Feature Importance,Random Forest,0.015227035218287872,importances,1,Feature Importance - Random Forest
+% ADA Diff,Feature Importance,Random Forest,0.021501838984211895,importances,1,Feature Importance - Random Forest
+% Tested Math G3 Diff,Feature Importance,Random Forest,0.019121468030049174,importances,1,Feature Importance - Random Forest
+% Tested Math G4 Diff,Feature Importance,Random Forest,0.021099628777329908,importances,1,Feature Importance - Random Forest
+% Tested Math G5 Diff,Feature Importance,Random Forest,0.02647336905336994,importances,1,Feature Importance - Random Forest
+% Tested Math G6 Diff,Feature Importance,Random Forest,0.02192698226016712,importances,1,Feature Importance - Random Forest
+% Tested Math G7 Diff,Feature Importance,Random Forest,0.02108167951247909,importances,1,Feature Importance - Random Forest
+% Tested Math G8 Diff,Feature Importance,Random Forest,0.020610508676468155,importances,1,Feature Importance - Random Forest
+Locale_11-City: Large,Feature Importance,Random Forest,0.002188205143576408,importances,0,Feature Importance - Random Forest
+Locale_12-City: Mid-size,Feature Importance,Random Forest,0.00035860710747089643,importances,0,Feature Importance - Random Forest
+Locale_13-City: Small,Feature Importance,Random Forest,0.0003423361894716427,importances,0,Feature Importance - Random Forest
+Locale_21-Suburb: Large,Feature Importance,Random Forest,0.0005979478204333153,importances,0,Feature Importance - Random Forest
+Locale_22-Suburb: Mid-size,Feature Importance,Random Forest,0.00010474699562310095,importances,0,Feature Importance - Random Forest
+Locale_23-Suburb: Small,Feature Importance,Random Forest,0.0,importances,0,Feature Importance - Random Forest
+Locale_31-Town: Fringe,Feature Importance,Random Forest,0.0007483789755351114,importances,0,Feature Importance - Random Forest
+Locale_32-Town: Distant,Feature Importance,Random Forest,0.0015904564439616206,importances,0,Feature Importance - Random Forest
+Locale_33-Town: Remote,Feature Importance,Random Forest,0.0003356699124188756,importances,0,Feature Importance - Random Forest
+Locale_41-Rural: Fringe,Feature Importance,Random Forest,0.0019132401455474672,importances,0,Feature Importance - Random Forest
+Locale_42-Rural: Distant,Feature Importance,Random Forest,0.0016342302752128232,importances,0,Feature Importance - Random Forest
+Locale_43-Rural: Remote,Feature Importance,Random Forest,0.0015457345757854187,importances,0,Feature Importance - Random Forest
+Labor Force Diff,Permutation Importance,Random Forest,0.007329842931937169,importances_mean,1,Permutation Importance - Random Forest
+Employed Diff,Permutation Importance,Random Forest,0.009424083769633485,importances_mean,1,Permutation Importance - Random Forest
+Unemployed Level Diff,Permutation Importance,Random Forest,0.00523560209424081,importances_mean,1,Permutation Importance - Random Forest
+Unemployed Rate Diff,Permutation Importance,Random Forest,0.003141361256544473,importances_mean,1,Permutation Importance - Random Forest
+Median Age 10,Permutation Importance,Random Forest,0.00418848167539263,importances_mean,1,Permutation Importance - Random Forest
+Median Age Male 10,Permutation Importance,Random Forest,0.00418848167539263,importances_mean,1,Permutation Importance - Random Forest
+Median Age Female 10,Permutation Importance,Random Forest,0.008376963350785327,importances_mean,1,Permutation Importance - Random Forest
+# of Households 10,Permutation Importance,Random Forest,0.004188481675392652,importances_mean,1,Permutation Importance - Random Forest
+Avg Household Size 10,Permutation Importance,Random Forest,0.007329842931937147,importances_mean,1,Permutation Importance - Random Forest
+# of Families 10,Permutation Importance,Random Forest,0.008376963350785327,importances_mean,1,Permutation Importance - Random Forest
+Avg Family Size 10,Permutation Importance,Random Forest,0.004188481675392652,importances_mean,1,Permutation Importance - Random Forest
+# of Housing Units 10,Permutation Importance,Random Forest,0.004188481675392652,importances_mean,1,Permutation Importance - Random Forest
+County Population,Permutation Importance,Random Forest,0.006282722513088967,importances_mean,1,Permutation Importance - Random Forest
+CARES ESSER I 20,Permutation Importance,Random Forest,0.00523560209424081,importances_mean,1,Permutation Importance - Random Forest
+CRRSA ESSER II 21,Permutation Importance,Random Forest,0.00628272251308899,importances_mean,1,Permutation Importance - Random Forest
+ARP ESSER III 21,Permutation Importance,Random Forest,0.01780104712041881,importances_mean,1,Permutation Importance - Random Forest
+ESSER-SUPP 22,Permutation Importance,Random Forest,0.0010471204188481575,importances_mean,1,Permutation Importance - Random Forest
+ESSER-SUPP 23,Permutation Importance,Random Forest,0.0010471204188481575,importances_mean,1,Permutation Importance - Random Forest
+% County Infected 09/28/20,Permutation Importance,Random Forest,0.013612565445026138,importances_mean,1,Permutation Importance - Random Forest
+% County Deaths 09/28/20,Permutation Importance,Random Forest,0.0010471204188481575,importances_mean,1,Permutation Importance - Random Forest
+% County Infected 10/30/20,Permutation Importance,Random Forest,0.007329842931937147,importances_mean,1,Permutation Importance - Random Forest
+% County Deaths 10/30/20,Permutation Importance,Random Forest,0.00628272251308899,importances_mean,1,Permutation Importance - Random Forest
+% County Infected 01/29/21,Permutation Importance,Random Forest,0.006282722513088967,importances_mean,1,Permutation Importance - Random Forest
+% County Deaths 01/29/21,Permutation Importance,Random Forest,-2.2204460492503132e-17,importances_mean,0,Permutation Importance - Random Forest
+% On Campus 09/28/20,Permutation Importance,Random Forest,0.00418848167539263,importances_mean,1,Permutation Importance - Random Forest
+% On Campus 10/30/20,Permutation Importance,Random Forest,0.004188481675392652,importances_mean,1,Permutation Importance - Random Forest
+% On Campus 01/29/21,Permutation Importance,Random Forest,-0.003141361256544517,importances_mean,0,Permutation Importance - Random Forest
+% White Pop 10,Permutation Importance,Random Forest,0.003141361256544473,importances_mean,1,Permutation Importance - Random Forest
+% Black Pop 10,Permutation Importance,Random Forest,0.0020942408376963375,importances_mean,1,Permutation Importance - Random Forest
+% Asian Pop 10,Permutation Importance,Random Forest,0.003141361256544473,importances_mean,1,Permutation Importance - Random Forest
+% Hispanic Pop 10,Permutation Importance,Random Forest,0.00418848167539263,importances_mean,1,Permutation Importance - Random Forest
+% Male Pop 10,Permutation Importance,Random Forest,0.003141361256544473,importances_mean,1,Permutation Importance - Random Forest
+% Female Pop 10,Permutation Importance,Random Forest,0.004188481675392652,importances_mean,1,Permutation Importance - Random Forest
+% Age 0-4 Pop 10,Permutation Importance,Random Forest,0.006282722513088967,importances_mean,1,Permutation Importance - Random Forest
+% Age 5-9 Pop 10,Permutation Importance,Random Forest,0.006282722513088967,importances_mean,1,Permutation Importance - Random Forest
+% Age 10-14 Pop 10,Permutation Importance,Random Forest,-0.001047120418848202,importances_mean,0,Permutation Importance - Random Forest
+% Age 15-19 Pop 10,Permutation Importance,Random Forest,0.007329842931937169,importances_mean,1,Permutation Importance - Random Forest
+% Age 20-24 Pop 10,Permutation Importance,Random Forest,0.010471204188481664,importances_mean,1,Permutation Importance - Random Forest
+% Age 25-34 Pop 10,Permutation Importance,Random Forest,0.013612565445026158,importances_mean,1,Permutation Importance - Random Forest
+% Age 35-44 Pop 10,Permutation Importance,Random Forest,0.0020942408376963375,importances_mean,1,Permutation Importance - Random Forest
+% Age 45-54 Pop 10,Permutation Importance,Random Forest,0.0020942408376963375,importances_mean,1,Permutation Importance - Random Forest
+% Age 55-64 Pop 10,Permutation Importance,Random Forest,0.003141361256544473,importances_mean,1,Permutation Importance - Random Forest
+% Age 65-74 Pop 10,Permutation Importance,Random Forest,0.002094240837696315,importances_mean,1,Permutation Importance - Random Forest
+% Age 75-84 Pop 10,Permutation Importance,Random Forest,0.00418848167539263,importances_mean,1,Permutation Importance - Random Forest
+% Age 85-Up Pop 10,Permutation Importance,Random Forest,0.002094240837696315,importances_mean,1,Permutation Importance - Random Forest
+% HH 1 Male 10,Permutation Importance,Random Forest,0.0031413612565444502,importances_mean,1,Permutation Importance - Random Forest
+% HH 1 Female 10,Permutation Importance,Random Forest,0.005235602094240788,importances_mean,1,Permutation Importance - Random Forest
+% HH Married-Child 10,Permutation Importance,Random Forest,-0.0010471204188481798,importances_mean,0,Permutation Importance - Random Forest
+% HH Married-noChild 10,Permutation Importance,Random Forest,0.009424083769633485,importances_mean,1,Permutation Importance - Random Forest
+% HH Male-Child 10,Permutation Importance,Random Forest,0.0020942408376963375,importances_mean,1,Permutation Importance - Random Forest
+% HH Female-Child 10,Permutation Importance,Random Forest,0.0010471204188481353,importances_mean,1,Permutation Importance - Random Forest
+% Housing Vacant 10,Permutation Importance,Random Forest,0.002094240837696315,importances_mean,1,Permutation Importance - Random Forest
+% Housing Owner Occup 10,Permutation Importance,Random Forest,0.008376963350785327,importances_mean,1,Permutation Importance - Random Forest
+% Housing Renter Occup 10,Permutation Importance,Random Forest,0.003141361256544473,importances_mean,1,Permutation Importance - Random Forest
+Total Schools Diff,Permutation Importance,Random Forest,0.0,importances_mean,0,Permutation Importance - Random Forest
+Total Students Diff,Permutation Importance,Random Forest,0.002094240837696315,importances_mean,1,Permutation Importance - Random Forest
+% Operational Schools Diff,Permutation Importance,Random Forest,0.0,importances_mean,0,Permutation Importance - Random Forest
+% Title 1 School-wide Diff,Permutation Importance,Random Forest,0.0,importances_mean,0,Permutation Importance - Random Forest
+% Title 1 Eligible Diff,Permutation Importance,Random Forest,0.003141361256544473,importances_mean,1,Permutation Importance - Random Forest
+Teachers:Students Diff,Permutation Importance,Random Forest,-0.0020942408376963596,importances_mean,0,Permutation Importance - Random Forest
+Staff:Students Diff,Permutation Importance,Random Forest,-0.0020942408376963596,importances_mean,0,Permutation Importance - Random Forest
+% Free Lunch Diff,Permutation Importance,Random Forest,0.00418848167539263,importances_mean,1,Permutation Importance - Random Forest
+% Reduced-price Lunch Diff,Permutation Importance,Random Forest,0.00523560209424081,importances_mean,1,Permutation Importance - Random Forest
+% Asian Diff,Permutation Importance,Random Forest,0.008376963350785327,importances_mean,1,Permutation Importance - Random Forest
+% Hispanic Diff,Permutation Importance,Random Forest,0.0010471204188481353,importances_mean,1,Permutation Importance - Random Forest
+% Black Diff,Permutation Importance,Random Forest,0.00628272251308899,importances_mean,1,Permutation Importance - Random Forest
+% White Diff,Permutation Importance,Random Forest,0.00628272251308899,importances_mean,1,Permutation Importance - Random Forest
+% Grades 1-8 Diff,Permutation Importance,Random Forest,0.004188481675392675,importances_mean,1,Permutation Importance - Random Forest
+% Grades 9-12 Diff,Permutation Importance,Random Forest,0.010471204188481664,importances_mean,1,Permutation Importance - Random Forest
+% Prek Diff,Permutation Importance,Random Forest,0.003141361256544495,importances_mean,1,Permutation Importance - Random Forest
+% Kinder Diff,Permutation Importance,Random Forest,0.006282722513088967,importances_mean,1,Permutation Importance - Random Forest
+% ADA Diff,Permutation Importance,Random Forest,0.003141361256544473,importances_mean,1,Permutation Importance - Random Forest
+% Tested Math G3 Diff,Permutation Importance,Random Forest,0.01256544502617798,importances_mean,1,Permutation Importance - Random Forest
+% Tested Math G4 Diff,Permutation Importance,Random Forest,0.014659685863874316,importances_mean,1,Permutation Importance - Random Forest
+% Tested Math G5 Diff,Permutation Importance,Random Forest,0.00523560209424081,importances_mean,1,Permutation Importance - Random Forest
+% Tested Math G6 Diff,Permutation Importance,Random Forest,0.011518324607329822,importances_mean,1,Permutation Importance - Random Forest
+% Tested Math G7 Diff,Permutation Importance,Random Forest,0.00837696335078535,importances_mean,1,Permutation Importance - Random Forest
+% Tested Math G8 Diff,Permutation Importance,Random Forest,0.003141361256544473,importances_mean,1,Permutation Importance - Random Forest
+Locale_11-City: Large,Permutation Importance,Random Forest,0.0,importances_mean,0,Permutation Importance - Random Forest
+Locale_12-City: Mid-size,Permutation Importance,Random Forest,0.0,importances_mean,0,Permutation Importance - Random Forest
+Locale_13-City: Small,Permutation Importance,Random Forest,0.0,importances_mean,0,Permutation Importance - Random Forest
+Locale_21-Suburb: Large,Permutation Importance,Random Forest,0.0,importances_mean,0,Permutation Importance - Random Forest
+Locale_22-Suburb: Mid-size,Permutation Importance,Random Forest,0.0,importances_mean,0,Permutation Importance - Random Forest
+Locale_23-Suburb: Small,Permutation Importance,Random Forest,0.0,importances_mean,0,Permutation Importance - Random Forest
+Locale_31-Town: Fringe,Permutation Importance,Random Forest,0.0,importances_mean,0,Permutation Importance - Random Forest
+Locale_32-Town: Distant,Permutation Importance,Random Forest,0.005235602094240788,importances_mean,1,Permutation Importance - Random Forest
+Locale_33-Town: Remote,Permutation Importance,Random Forest,0.0,importances_mean,0,Permutation Importance - Random Forest
+Locale_41-Rural: Fringe,Permutation Importance,Random Forest,0.0,importances_mean,0,Permutation Importance - Random Forest
+Locale_42-Rural: Distant,Permutation Importance,Random Forest,0.0,importances_mean,0,Permutation Importance - Random Forest
+Locale_43-Rural: Remote,Permutation Importance,Random Forest,-0.004188481675392719,importances_mean,0,Permutation Importance - Random Forest
+Labor Force Diff,Permutation Importance,Ridge,-0.020942408376963394,importances_mean,0,Permutation Importance - Ridge
+Employed Diff,Permutation Importance,Ridge,-0.013612565445026181,importances_mean,0,Permutation Importance - Ridge
+Unemployed Level Diff,Permutation Importance,Ridge,-0.003141361256544539,importances_mean,0,Permutation Importance - Ridge
+Unemployed Rate Diff,Permutation Importance,Ridge,-0.007329842931937214,importances_mean,0,Permutation Importance - Ridge
+Median Age 10,Permutation Importance,Ridge,0.0,importances_mean,0,Permutation Importance - Ridge
+Median Age Male 10,Permutation Importance,Ridge,0.0,importances_mean,0,Permutation Importance - Ridge
+Median Age Female 10,Permutation Importance,Ridge,-0.0010471204188481798,importances_mean,0,Permutation Importance - Ridge
+# of Households 10,Permutation Importance,Ridge,-0.001047120418848202,importances_mean,0,Permutation Importance - Ridge
+Avg Household Size 10,Permutation Importance,Ridge,0.0,importances_mean,0,Permutation Importance - Ridge
+# of Families 10,Permutation Importance,Ridge,-0.0010471204188481798,importances_mean,0,Permutation Importance - Ridge
+Avg Family Size 10,Permutation Importance,Ridge,-2.2204460492503132e-17,importances_mean,0,Permutation Importance - Ridge
+# of Housing Units 10,Permutation Importance,Ridge,-0.001047120418848202,importances_mean,0,Permutation Importance - Ridge
+County Population,Permutation Importance,Ridge,-0.0020942408376963817,importances_mean,0,Permutation Importance - Ridge
+CARES ESSER I 20,Permutation Importance,Ridge,-2.2204460492503132e-17,importances_mean,0,Permutation Importance - Ridge
+CRRSA ESSER II 21,Permutation Importance,Ridge,-2.2204460492503132e-17,importances_mean,0,Permutation Importance - Ridge
+ARP ESSER III 21,Permutation Importance,Ridge,-2.2204460492503132e-17,importances_mean,0,Permutation Importance - Ridge
+ESSER-SUPP 22,Permutation Importance,Ridge,-0.004188481675392697,importances_mean,0,Permutation Importance - Ridge
+ESSER-SUPP 23,Permutation Importance,Ridge,-0.004188481675392697,importances_mean,0,Permutation Importance - Ridge
+% County Infected 09/28/20,Permutation Importance,Ridge,-0.007329842931937192,importances_mean,0,Permutation Importance - Ridge
+% County Deaths 09/28/20,Permutation Importance,Ridge,-0.004188481675392719,importances_mean,0,Permutation Importance - Ridge
+% County Infected 10/30/20,Permutation Importance,Ridge,-0.001047120418848202,importances_mean,0,Permutation Importance - Ridge
+% County Deaths 10/30/20,Permutation Importance,Ridge,-0.004188481675392697,importances_mean,0,Permutation Importance - Ridge
+% County Infected 01/29/21,Permutation Importance,Ridge,-0.010471204188481732,importances_mean,0,Permutation Importance - Ridge
+% County Deaths 01/29/21,Permutation Importance,Ridge,-0.008376963350785393,importances_mean,0,Permutation Importance - Ridge
+% On Campus 09/28/20,Permutation Importance,Ridge,-0.0062827225130890115,importances_mean,0,Permutation Importance - Ridge
+% On Campus 10/30/20,Permutation Importance,Ridge,0.024083769633507845,importances_mean,1,Permutation Importance - Ridge
+% On Campus 01/29/21,Permutation Importance,Ridge,0.01989528795811517,importances_mean,1,Permutation Importance - Ridge
+% White Pop 10,Permutation Importance,Ridge,-0.004188481675392697,importances_mean,0,Permutation Importance - Ridge
+% Black Pop 10,Permutation Importance,Ridge,0.014659685863874316,importances_mean,1,Permutation Importance - Ridge
+% Asian Pop 10,Permutation Importance,Ridge,0.002094240837696315,importances_mean,1,Permutation Importance - Ridge
+% Hispanic Pop 10,Permutation Importance,Ridge,-0.012565445026178023,importances_mean,0,Permutation Importance - Ridge
+% Male Pop 10,Permutation Importance,Ridge,-0.005235602094240876,importances_mean,0,Permutation Importance - Ridge
+% Female Pop 10,Permutation Importance,Ridge,-0.005235602094240876,importances_mean,0,Permutation Importance - Ridge
+% Age 0-4 Pop 10,Permutation Importance,Ridge,0.0,importances_mean,0,Permutation Importance - Ridge
+% Age 5-9 Pop 10,Permutation Importance,Ridge,0.008376963350785305,importances_mean,1,Permutation Importance - Ridge
+% Age 10-14 Pop 10,Permutation Importance,Ridge,0.00628272251308899,importances_mean,1,Permutation Importance - Ridge
+% Age 15-19 Pop 10,Permutation Importance,Ridge,0.00628272251308899,importances_mean,1,Permutation Importance - Ridge
+% Age 20-24 Pop 10,Permutation Importance,Ridge,0.010471204188481664,importances_mean,1,Permutation Importance - Ridge
+% Age 25-34 Pop 10,Permutation Importance,Ridge,0.0010471204188481353,importances_mean,1,Permutation Importance - Ridge
+% Age 35-44 Pop 10,Permutation Importance,Ridge,0.011518324607329822,importances_mean,1,Permutation Importance - Ridge
+% Age 45-54 Pop 10,Permutation Importance,Ridge,-0.0010471204188482242,importances_mean,0,Permutation Importance - Ridge
+% Age 55-64 Pop 10,Permutation Importance,Ridge,-0.007329842931937192,importances_mean,0,Permutation Importance - Ridge
+% Age 65-74 Pop 10,Permutation Importance,Ridge,-0.007329842931937214,importances_mean,0,Permutation Importance - Ridge
+% Age 75-84 Pop 10,Permutation Importance,Ridge,-0.005235602094240876,importances_mean,0,Permutation Importance - Ridge
+% Age 85-Up Pop 10,Permutation Importance,Ridge,-0.0020942408376963817,importances_mean,0,Permutation Importance - Ridge
+% HH 1 Male 10,Permutation Importance,Ridge,-0.0020942408376963817,importances_mean,0,Permutation Importance - Ridge
+% HH 1 Female 10,Permutation Importance,Ridge,0.005235602094240832,importances_mean,1,Permutation Importance - Ridge
+% HH Married-Child 10,Permutation Importance,Ridge,-0.006282722513089034,importances_mean,0,Permutation Importance - Ridge
+% HH Married-noChild 10,Permutation Importance,Ridge,-0.010471204188481732,importances_mean,0,Permutation Importance - Ridge
+% HH Male-Child 10,Permutation Importance,Ridge,0.01256544502617798,importances_mean,1,Permutation Importance - Ridge
+% HH Female-Child 10,Permutation Importance,Ridge,0.008376963350785327,importances_mean,1,Permutation Importance - Ridge
+% Housing Vacant 10,Permutation Importance,Ridge,-0.004188481675392697,importances_mean,0,Permutation Importance - Ridge
+% Housing Owner Occup 10,Permutation Importance,Ridge,-0.00837696335078537,importances_mean,0,Permutation Importance - Ridge
+% Housing Renter Occup 10,Permutation Importance,Ridge,0.005235602094240832,importances_mean,1,Permutation Importance - Ridge
+Total Schools Diff,Permutation Importance,Ridge,0.0010471204188481575,importances_mean,1,Permutation Importance - Ridge
+Total Students Diff,Permutation Importance,Ridge,-0.009424083769633529,importances_mean,0,Permutation Importance - Ridge
+% Operational Schools Diff,Permutation Importance,Ridge,0.00523560209424081,importances_mean,1,Permutation Importance - Ridge
+% Title 1 School-wide Diff,Permutation Importance,Ridge,-0.0020942408376963596,importances_mean,0,Permutation Importance - Ridge
+% Title 1 Eligible Diff,Permutation Importance,Ridge,-0.007329842931937192,importances_mean,0,Permutation Importance - Ridge
+Teachers:Students Diff,Permutation Importance,Ridge,-0.019895287958115238,importances_mean,0,Permutation Importance - Ridge
+Staff:Students Diff,Permutation Importance,Ridge,-0.013612565445026203,importances_mean,0,Permutation Importance - Ridge
+% Free Lunch Diff,Permutation Importance,Ridge,-0.0020942408376963596,importances_mean,0,Permutation Importance - Ridge
+% Reduced-price Lunch Diff,Permutation Importance,Ridge,0.0010471204188481132,importances_mean,1,Permutation Importance - Ridge
+% Asian Diff,Permutation Importance,Ridge,0.0010471204188481353,importances_mean,1,Permutation Importance - Ridge
+% Hispanic Diff,Permutation Importance,Ridge,0.004188481675392652,importances_mean,1,Permutation Importance - Ridge
+% Black Diff,Permutation Importance,Ridge,-0.003141361256544539,importances_mean,0,Permutation Importance - Ridge
+% White Diff,Permutation Importance,Ridge,-0.003141361256544539,importances_mean,0,Permutation Importance - Ridge
+% Grades 1-8 Diff,Permutation Importance,Ridge,-0.001047120418848202,importances_mean,0,Permutation Importance - Ridge
+% Grades 9-12 Diff,Permutation Importance,Ridge,0.008376963350785327,importances_mean,1,Permutation Importance - Ridge
+% Prek Diff,Permutation Importance,Ridge,-0.003141361256544539,importances_mean,0,Permutation Importance - Ridge
+% Kinder Diff,Permutation Importance,Ridge,0.0010471204188481575,importances_mean,1,Permutation Importance - Ridge
+% ADA Diff,Permutation Importance,Ridge,0.002094240837696293,importances_mean,1,Permutation Importance - Ridge
+% Tested Math G3 Diff,Permutation Importance,Ridge,-0.0052356020942408545,importances_mean,0,Permutation Importance - Ridge
+% Tested Math G4 Diff,Permutation Importance,Ridge,-2.2204460492503132e-17,importances_mean,0,Permutation Importance - Ridge
+% Tested Math G5 Diff,Permutation Importance,Ridge,-0.00837696335078537,importances_mean,0,Permutation Importance - Ridge
+% Tested Math G6 Diff,Permutation Importance,Ridge,-0.001047120418848202,importances_mean,0,Permutation Importance - Ridge
+% Tested Math G7 Diff,Permutation Importance,Ridge,-0.018848167539267036,importances_mean,0,Permutation Importance - Ridge
+% Tested Math G8 Diff,Permutation Importance,Ridge,0.0010471204188481575,importances_mean,1,Permutation Importance - Ridge
+Locale_11-City: Large,Permutation Importance,Ridge,-0.0010471204188481798,importances_mean,0,Permutation Importance - Ridge
+Locale_12-City: Mid-size,Permutation Importance,Ridge,0.005235602094240788,importances_mean,1,Permutation Importance - Ridge
+Locale_13-City: Small,Permutation Importance,Ridge,0.0,importances_mean,0,Permutation Importance - Ridge
+Locale_21-Suburb: Large,Permutation Importance,Ridge,0.00418848167539263,importances_mean,1,Permutation Importance - Ridge
+Locale_22-Suburb: Mid-size,Permutation Importance,Ridge,0.007329842931937147,importances_mean,1,Permutation Importance - Ridge
+Locale_23-Suburb: Small,Permutation Importance,Ridge,0.002094240837696315,importances_mean,1,Permutation Importance - Ridge
+Locale_31-Town: Fringe,Permutation Importance,Ridge,-0.0010471204188481798,importances_mean,0,Permutation Importance - Ridge
+Locale_32-Town: Distant,Permutation Importance,Ridge,-0.001047120418848202,importances_mean,0,Permutation Importance - Ridge
+Locale_33-Town: Remote,Permutation Importance,Ridge,-0.003141361256544539,importances_mean,0,Permutation Importance - Ridge
+Locale_41-Rural: Fringe,Permutation Importance,Ridge,-0.003141361256544517,importances_mean,0,Permutation Importance - Ridge
+Locale_42-Rural: Distant,Permutation Importance,Ridge,0.010471204188481641,importances_mean,1,Permutation Importance - Ridge
+Locale_43-Rural: Remote,Permutation Importance,Ridge,-2.2204460492503132e-17,importances_mean,0,Permutation Importance - Ridge
+Labor Force Diff,RFE,Ridge,39.0,ranking,0,RFE - Ridge
+Employed Diff,RFE,Ridge,37.0,ranking,0,RFE - Ridge
+Unemployed Level Diff,RFE,Ridge,44.0,ranking,0,RFE - Ridge
+Unemployed Rate Diff,RFE,Ridge,46.0,ranking,0,RFE - Ridge
+Median Age 10,RFE,Ridge,35.0,ranking,0,RFE - Ridge
+Median Age Male 10,RFE,Ridge,78.0,ranking,0,RFE - Ridge
+Median Age Female 10,RFE,Ridge,4.0,ranking,0,RFE - Ridge
+# of Households 10,RFE,Ridge,52.0,ranking,0,RFE - Ridge
+Avg Household Size 10,RFE,Ridge,69.0,ranking,0,RFE - Ridge
+# of Families 10,RFE,Ridge,68.0,ranking,0,RFE - Ridge
+Avg Family Size 10,RFE,Ridge,55.0,ranking,0,RFE - Ridge
+# of Housing Units 10,RFE,Ridge,60.0,ranking,0,RFE - Ridge
+County Population,RFE,Ridge,5.0,ranking,0,RFE - Ridge
+CARES ESSER I 20,RFE,Ridge,1.0,ranking,1,RFE - Ridge
+CRRSA ESSER II 21,RFE,Ridge,1.0,ranking,1,RFE - Ridge
+ARP ESSER III 21,RFE,Ridge,1.0,ranking,1,RFE - Ridge
+ESSER-SUPP 22,RFE,Ridge,1.0,ranking,1,RFE - Ridge
+ESSER-SUPP 23,RFE,Ridge,34.0,ranking,0,RFE - Ridge
+% County Infected 09/28/20,RFE,Ridge,11.0,ranking,0,RFE - Ridge
+% County Deaths 09/28/20,RFE,Ridge,71.0,ranking,0,RFE - Ridge
+% County Infected 10/30/20,RFE,Ridge,10.0,ranking,0,RFE - Ridge
+% County Deaths 10/30/20,RFE,Ridge,70.0,ranking,0,RFE - Ridge
+% County Infected 01/29/21,RFE,Ridge,51.0,ranking,0,RFE - Ridge
+% County Deaths 01/29/21,RFE,Ridge,81.0,ranking,0,RFE - Ridge
+% On Campus 09/28/20,RFE,Ridge,1.0,ranking,1,RFE - Ridge
+% On Campus 10/30/20,RFE,Ridge,1.0,ranking,1,RFE - Ridge
+% On Campus 01/29/21,RFE,Ridge,2.0,ranking,0,RFE - Ridge
+% White Pop 10,RFE,Ridge,56.0,ranking,0,RFE - Ridge
+% Black Pop 10,RFE,Ridge,40.0,ranking,0,RFE - Ridge
+% Asian Pop 10,RFE,Ridge,6.0,ranking,0,RFE - Ridge
+% Hispanic Pop 10,RFE,Ridge,41.0,ranking,0,RFE - Ridge
+% Male Pop 10,RFE,Ridge,31.0,ranking,0,RFE - Ridge
+% Female Pop 10,RFE,Ridge,14.0,ranking,0,RFE - Ridge
+% Age 0-4 Pop 10,RFE,Ridge,73.0,ranking,0,RFE - Ridge
+% Age 5-9 Pop 10,RFE,Ridge,12.0,ranking,0,RFE - Ridge
+% Age 10-14 Pop 10,RFE,Ridge,16.0,ranking,0,RFE - Ridge
+% Age 15-19 Pop 10,RFE,Ridge,83.0,ranking,0,RFE - Ridge
+% Age 20-24 Pop 10,RFE,Ridge,21.0,ranking,0,RFE - Ridge
+% Age 25-34 Pop 10,RFE,Ridge,15.0,ranking,0,RFE - Ridge
+% Age 35-44 Pop 10,RFE,Ridge,13.0,ranking,0,RFE - Ridge
+% Age 45-54 Pop 10,RFE,Ridge,23.0,ranking,0,RFE - Ridge
+% Age 55-64 Pop 10,RFE,Ridge,45.0,ranking,0,RFE - Ridge
+% Age 65-74 Pop 10,RFE,Ridge,22.0,ranking,0,RFE - Ridge
+% Age 75-84 Pop 10,RFE,Ridge,36.0,ranking,0,RFE - Ridge
+% Age 85-Up Pop 10,RFE,Ridge,59.0,ranking,0,RFE - Ridge
+% HH 1 Male 10,RFE,Ridge,18.0,ranking,0,RFE - Ridge
+% HH 1 Female 10,RFE,Ridge,84.0,ranking,0,RFE - Ridge
+% HH Married-Child 10,RFE,Ridge,17.0,ranking,0,RFE - Ridge
+% HH Married-noChild 10,RFE,Ridge,7.0,ranking,0,RFE - Ridge
+% HH Male-Child 10,RFE,Ridge,38.0,ranking,0,RFE - Ridge
+% HH Female-Child 10,RFE,Ridge,8.0,ranking,0,RFE - Ridge
+% Housing Vacant 10,RFE,Ridge,19.0,ranking,0,RFE - Ridge
+% Housing Owner Occup 10,RFE,Ridge,54.0,ranking,0,RFE - Ridge
+% Housing Renter Occup 10,RFE,Ridge,9.0,ranking,0,RFE - Ridge
+Total Schools Diff,RFE,Ridge,58.0,ranking,0,RFE - Ridge
+Total Students Diff,RFE,Ridge,53.0,ranking,0,RFE - Ridge
+% Operational Schools Diff,RFE,Ridge,57.0,ranking,0,RFE - Ridge
+% Title 1 School-wide Diff,RFE,Ridge,42.0,ranking,0,RFE - Ridge
+% Title 1 Eligible Diff,RFE,Ridge,43.0,ranking,0,RFE - Ridge
+Teachers:Students Diff,RFE,Ridge,24.0,ranking,0,RFE - Ridge
+Staff:Students Diff,RFE,Ridge,74.0,ranking,0,RFE - Ridge
+% Free Lunch Diff,RFE,Ridge,85.0,ranking,0,RFE - Ridge
+% Reduced-price Lunch Diff,RFE,Ridge,65.0,ranking,0,RFE - Ridge
+% Asian Diff,RFE,Ridge,26.0,ranking,0,RFE - Ridge
+% Hispanic Diff,RFE,Ridge,62.0,ranking,0,RFE - Ridge
+% Black Diff,RFE,Ridge,63.0,ranking,0,RFE - Ridge
+% White Diff,RFE,Ridge,77.0,ranking,0,RFE - Ridge
+% Grades 1-8 Diff,RFE,Ridge,25.0,ranking,0,RFE - Ridge
+% Grades 9-12 Diff,RFE,Ridge,30.0,ranking,0,RFE - Ridge
+% Prek Diff,RFE,Ridge,66.0,ranking,0,RFE - Ridge
+% Kinder Diff,RFE,Ridge,80.0,ranking,0,RFE - Ridge
+% ADA Diff,RFE,Ridge,64.0,ranking,0,RFE - Ridge
+% Tested Math G3 Diff,RFE,Ridge,48.0,ranking,0,RFE - Ridge
+% Tested Math G4 Diff,RFE,Ridge,72.0,ranking,0,RFE - Ridge
+% Tested Math G5 Diff,RFE,Ridge,47.0,ranking,0,RFE - Ridge
+% Tested Math G6 Diff,RFE,Ridge,61.0,ranking,0,RFE - Ridge
+% Tested Math G7 Diff,RFE,Ridge,33.0,ranking,0,RFE - Ridge
+% Tested Math G8 Diff,RFE,Ridge,75.0,ranking,0,RFE - Ridge
+Locale_11-City: Large,RFE,Ridge,27.0,ranking,0,RFE - Ridge
+Locale_12-City: Mid-size,RFE,Ridge,79.0,ranking,0,RFE - Ridge
+Locale_13-City: Small,RFE,Ridge,67.0,ranking,0,RFE - Ridge
+Locale_21-Suburb: Large,RFE,Ridge,20.0,ranking,0,RFE - Ridge
+Locale_22-Suburb: Mid-size,RFE,Ridge,32.0,ranking,0,RFE - Ridge
+Locale_23-Suburb: Small,RFE,Ridge,3.0,ranking,0,RFE - Ridge
+Locale_31-Town: Fringe,RFE,Ridge,82.0,ranking,0,RFE - Ridge
+Locale_32-Town: Distant,RFE,Ridge,76.0,ranking,0,RFE - Ridge
+Locale_33-Town: Remote,RFE,Ridge,50.0,ranking,0,RFE - Ridge
+Locale_41-Rural: Fringe,RFE,Ridge,49.0,ranking,0,RFE - Ridge
+Locale_42-Rural: Distant,RFE,Ridge,28.0,ranking,0,RFE - Ridge
+Locale_43-Rural: Remote,RFE,Ridge,29.0,ranking,0,RFE - Ridge
+Labor Force Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+Employed Diff,RFE,Random Forest,11.0,ranking,0,RFE - Random Forest
+Unemployed Level Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+Unemployed Rate Diff,RFE,Random Forest,34.0,ranking,0,RFE - Random Forest
+Median Age 10,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+Median Age Male 10,RFE,Random Forest,23.0,ranking,0,RFE - Random Forest
+Median Age Female 10,RFE,Random Forest,10.0,ranking,0,RFE - Random Forest
+# of Households 10,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+Avg Household Size 10,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+# of Families 10,RFE,Random Forest,9.0,ranking,0,RFE - Random Forest
+Avg Family Size 10,RFE,Random Forest,16.0,ranking,0,RFE - Random Forest
+# of Housing Units 10,RFE,Random Forest,4.0,ranking,0,RFE - Random Forest
+County Population,RFE,Random Forest,13.0,ranking,0,RFE - Random Forest
+CARES ESSER I 20,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+CRRSA ESSER II 21,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+ARP ESSER III 21,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+ESSER-SUPP 22,RFE,Random Forest,42.0,ranking,0,RFE - Random Forest
+ESSER-SUPP 23,RFE,Random Forest,43.0,ranking,0,RFE - Random Forest
+% County Infected 09/28/20,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% County Deaths 09/28/20,RFE,Random Forest,33.0,ranking,0,RFE - Random Forest
+% County Infected 10/30/20,RFE,Random Forest,12.0,ranking,0,RFE - Random Forest
+% County Deaths 10/30/20,RFE,Random Forest,21.0,ranking,0,RFE - Random Forest
+% County Infected 01/29/21,RFE,Random Forest,26.0,ranking,0,RFE - Random Forest
+% County Deaths 01/29/21,RFE,Random Forest,3.0,ranking,0,RFE - Random Forest
+% On Campus 09/28/20,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% On Campus 10/30/20,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% On Campus 01/29/21,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% White Pop 10,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Black Pop 10,RFE,Random Forest,5.0,ranking,0,RFE - Random Forest
+% Asian Pop 10,RFE,Random Forest,19.0,ranking,0,RFE - Random Forest
+% Hispanic Pop 10,RFE,Random Forest,8.0,ranking,0,RFE - Random Forest
+% Male Pop 10,RFE,Random Forest,17.0,ranking,0,RFE - Random Forest
+% Female Pop 10,RFE,Random Forest,25.0,ranking,0,RFE - Random Forest
+% Age 0-4 Pop 10,RFE,Random Forest,18.0,ranking,0,RFE - Random Forest
+% Age 5-9 Pop 10,RFE,Random Forest,37.0,ranking,0,RFE - Random Forest
+% Age 10-14 Pop 10,RFE,Random Forest,27.0,ranking,0,RFE - Random Forest
+% Age 15-19 Pop 10,RFE,Random Forest,15.0,ranking,0,RFE - Random Forest
+% Age 20-24 Pop 10,RFE,Random Forest,38.0,ranking,0,RFE - Random Forest
+% Age 25-34 Pop 10,RFE,Random Forest,7.0,ranking,0,RFE - Random Forest
+% Age 35-44 Pop 10,RFE,Random Forest,30.0,ranking,0,RFE - Random Forest
+% Age 45-54 Pop 10,RFE,Random Forest,31.0,ranking,0,RFE - Random Forest
+% Age 55-64 Pop 10,RFE,Random Forest,2.0,ranking,0,RFE - Random Forest
+% Age 65-74 Pop 10,RFE,Random Forest,24.0,ranking,0,RFE - Random Forest
+% Age 75-84 Pop 10,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Age 85-Up Pop 10,RFE,Random Forest,22.0,ranking,0,RFE - Random Forest
+% HH 1 Male 10,RFE,Random Forest,6.0,ranking,0,RFE - Random Forest
+% HH 1 Female 10,RFE,Random Forest,14.0,ranking,0,RFE - Random Forest
+% HH Married-Child 10,RFE,Random Forest,20.0,ranking,0,RFE - Random Forest
+% HH Married-noChild 10,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% HH Male-Child 10,RFE,Random Forest,29.0,ranking,0,RFE - Random Forest
+% HH Female-Child 10,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Housing Vacant 10,RFE,Random Forest,35.0,ranking,0,RFE - Random Forest
+% Housing Owner Occup 10,RFE,Random Forest,28.0,ranking,0,RFE - Random Forest
+% Housing Renter Occup 10,RFE,Random Forest,32.0,ranking,0,RFE - Random Forest
+Total Schools Diff,RFE,Random Forest,41.0,ranking,0,RFE - Random Forest
+Total Students Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Operational Schools Diff,RFE,Random Forest,39.0,ranking,0,RFE - Random Forest
+% Title 1 School-wide Diff,RFE,Random Forest,40.0,ranking,0,RFE - Random Forest
+% Title 1 Eligible Diff,RFE,Random Forest,36.0,ranking,0,RFE - Random Forest
+Teachers:Students Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+Staff:Students Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Free Lunch Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Reduced-price Lunch Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Asian Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Hispanic Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Black Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% White Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Grades 1-8 Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Grades 9-12 Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Prek Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Kinder Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% ADA Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Tested Math G3 Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Tested Math G4 Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Tested Math G5 Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Tested Math G6 Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Tested Math G7 Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+% Tested Math G8 Diff,RFE,Random Forest,1.0,ranking,1,RFE - Random Forest
+Locale_11-City: Large,RFE,Random Forest,47.0,ranking,0,RFE - Random Forest
+Locale_12-City: Mid-size,RFE,Random Forest,52.0,ranking,0,RFE - Random Forest
+Locale_13-City: Small,RFE,Random Forest,50.0,ranking,0,RFE - Random Forest
+Locale_21-Suburb: Large,RFE,Random Forest,53.0,ranking,0,RFE - Random Forest
+Locale_22-Suburb: Mid-size,RFE,Random Forest,54.0,ranking,0,RFE - Random Forest
+Locale_23-Suburb: Small,RFE,Random Forest,55.0,ranking,0,RFE - Random Forest
+Locale_31-Town: Fringe,RFE,Random Forest,51.0,ranking,0,RFE - Random Forest
+Locale_32-Town: Distant,RFE,Random Forest,46.0,ranking,0,RFE - Random Forest
+Locale_33-Town: Remote,RFE,Random Forest,49.0,ranking,0,RFE - Random Forest
+Locale_41-Rural: Fringe,RFE,Random Forest,44.0,ranking,0,RFE - Random Forest
+Locale_42-Rural: Distant,RFE,Random Forest,45.0,ranking,0,RFE - Random Forest
+Locale_43-Rural: Remote,RFE,Random Forest,48.0,ranking,0,RFE - Random Forest
+Labor Force Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+Employed Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+Unemployed Level Diff,SFS,KNN,1.0,N/A,1,SFS - KNN
+Unemployed Rate Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+Median Age 10,SFS,KNN,1.0,N/A,1,SFS - KNN
+Median Age Male 10,SFS,KNN,1.0,N/A,1,SFS - KNN
+Median Age Female 10,SFS,KNN,1.0,N/A,1,SFS - KNN
+# of Households 10,SFS,KNN,1.0,N/A,1,SFS - KNN
+Avg Household Size 10,SFS,KNN,1.0,N/A,1,SFS - KNN
+# of Families 10,SFS,KNN,1.0,N/A,1,SFS - KNN
+Avg Family Size 10,SFS,KNN,1.0,N/A,1,SFS - KNN
+# of Housing Units 10,SFS,KNN,1.0,N/A,1,SFS - KNN
+County Population,SFS,KNN,1.0,N/A,1,SFS - KNN
+CARES ESSER I 20,SFS,KNN,1.0,N/A,1,SFS - KNN
+CRRSA ESSER II 21,SFS,KNN,1.0,N/A,1,SFS - KNN
+ARP ESSER III 21,SFS,KNN,1.0,N/A,1,SFS - KNN
+ESSER-SUPP 22,SFS,KNN,1.0,N/A,1,SFS - KNN
+ESSER-SUPP 23,SFS,KNN,1.0,N/A,1,SFS - KNN
+% County Infected 09/28/20,SFS,KNN,0.0,N/A,0,SFS - KNN
+% County Deaths 09/28/20,SFS,KNN,0.0,N/A,0,SFS - KNN
+% County Infected 10/30/20,SFS,KNN,0.0,N/A,0,SFS - KNN
+% County Deaths 10/30/20,SFS,KNN,0.0,N/A,0,SFS - KNN
+% County Infected 01/29/21,SFS,KNN,0.0,N/A,0,SFS - KNN
+% County Deaths 01/29/21,SFS,KNN,1.0,N/A,1,SFS - KNN
+% On Campus 09/28/20,SFS,KNN,1.0,N/A,1,SFS - KNN
+% On Campus 10/30/20,SFS,KNN,1.0,N/A,1,SFS - KNN
+% On Campus 01/29/21,SFS,KNN,1.0,N/A,1,SFS - KNN
+% White Pop 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Black Pop 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Asian Pop 10,SFS,KNN,1.0,N/A,1,SFS - KNN
+% Hispanic Pop 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Male Pop 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Female Pop 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Age 0-4 Pop 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Age 5-9 Pop 10,SFS,KNN,1.0,N/A,1,SFS - KNN
+% Age 10-14 Pop 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Age 15-19 Pop 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Age 20-24 Pop 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Age 25-34 Pop 10,SFS,KNN,1.0,N/A,1,SFS - KNN
+% Age 35-44 Pop 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Age 45-54 Pop 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Age 55-64 Pop 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Age 65-74 Pop 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Age 75-84 Pop 10,SFS,KNN,1.0,N/A,1,SFS - KNN
+% Age 85-Up Pop 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% HH 1 Male 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% HH 1 Female 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% HH Married-Child 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% HH Married-noChild 10,SFS,KNN,1.0,N/A,1,SFS - KNN
+% HH Male-Child 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% HH Female-Child 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Housing Vacant 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Housing Owner Occup 10,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Housing Renter Occup 10,SFS,KNN,1.0,N/A,1,SFS - KNN
+Total Schools Diff,SFS,KNN,1.0,N/A,1,SFS - KNN
+Total Students Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Operational Schools Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Title 1 School-wide Diff,SFS,KNN,1.0,N/A,1,SFS - KNN
+% Title 1 Eligible Diff,SFS,KNN,1.0,N/A,1,SFS - KNN
+Teachers:Students Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+Staff:Students Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Free Lunch Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Reduced-price Lunch Diff,SFS,KNN,1.0,N/A,1,SFS - KNN
+% Asian Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Hispanic Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Black Diff,SFS,KNN,1.0,N/A,1,SFS - KNN
+% White Diff,SFS,KNN,1.0,N/A,1,SFS - KNN
+% Grades 1-8 Diff,SFS,KNN,1.0,N/A,1,SFS - KNN
+% Grades 9-12 Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Prek Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Kinder Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+% ADA Diff,SFS,KNN,1.0,N/A,1,SFS - KNN
+% Tested Math G3 Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Tested Math G4 Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Tested Math G5 Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Tested Math G6 Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Tested Math G7 Diff,SFS,KNN,0.0,N/A,0,SFS - KNN
+% Tested Math G8 Diff,SFS,KNN,1.0,N/A,1,SFS - KNN
+Locale_11-City: Large,SFS,KNN,1.0,N/A,1,SFS - KNN
+Locale_12-City: Mid-size,SFS,KNN,1.0,N/A,1,SFS - KNN
+Locale_13-City: Small,SFS,KNN,1.0,N/A,1,SFS - KNN
+Locale_21-Suburb: Large,SFS,KNN,1.0,N/A,1,SFS - KNN
+Locale_22-Suburb: Mid-size,SFS,KNN,1.0,N/A,1,SFS - KNN
+Locale_23-Suburb: Small,SFS,KNN,1.0,N/A,1,SFS - KNN
+Locale_31-Town: Fringe,SFS,KNN,1.0,N/A,1,SFS - KNN
+Locale_32-Town: Distant,SFS,KNN,1.0,N/A,1,SFS - KNN
+Locale_33-Town: Remote,SFS,KNN,1.0,N/A,1,SFS - KNN
+Locale_41-Rural: Fringe,SFS,KNN,1.0,N/A,1,SFS - KNN
+Locale_42-Rural: Distant,SFS,KNN,1.0,N/A,1,SFS - KNN
+Locale_43-Rural: Remote,SFS,KNN,0.0,N/A,0,SFS - KNN
+Labor Force Diff,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+Employed Diff,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+Unemployed Level Diff,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+Unemployed Rate Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+Median Age 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+Median Age Male 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+Median Age Female 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+# of Households 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+Avg Household Size 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+# of Families 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+Avg Family Size 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+# of Housing Units 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+County Population,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+CARES ESSER I 20,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+CRRSA ESSER II 21,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+ARP ESSER III 21,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+ESSER-SUPP 22,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+ESSER-SUPP 23,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% County Infected 09/28/20,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% County Deaths 09/28/20,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% County Infected 10/30/20,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% County Deaths 10/30/20,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% County Infected 01/29/21,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% County Deaths 01/29/21,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% On Campus 09/28/20,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% On Campus 10/30/20,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% On Campus 01/29/21,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% White Pop 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% Black Pop 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% Asian Pop 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% Hispanic Pop 10,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Male Pop 10,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Female Pop 10,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Age 0-4 Pop 10,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Age 5-9 Pop 10,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Age 10-14 Pop 10,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Age 15-19 Pop 10,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Age 20-24 Pop 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% Age 25-34 Pop 10,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Age 35-44 Pop 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% Age 45-54 Pop 10,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Age 55-64 Pop 10,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Age 65-74 Pop 10,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Age 75-84 Pop 10,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Age 85-Up Pop 10,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% HH 1 Male 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% HH 1 Female 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% HH Married-Child 10,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% HH Married-noChild 10,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% HH Male-Child 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% HH Female-Child 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% Housing Vacant 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% Housing Owner Occup 10,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% Housing Renter Occup 10,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+Total Schools Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+Total Students Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Operational Schools Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Title 1 School-wide Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Title 1 Eligible Diff,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+Teachers:Students Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+Staff:Students Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Free Lunch Diff,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% Reduced-price Lunch Diff,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% Asian Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Hispanic Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Black Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% White Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Grades 1-8 Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Grades 9-12 Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Prek Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Kinder Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% ADA Diff,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% Tested Math G3 Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Tested Math G4 Diff,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+% Tested Math G5 Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Tested Math G6 Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Tested Math G7 Diff,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+% Tested Math G8 Diff,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+Locale_11-City: Large,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+Locale_12-City: Mid-size,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+Locale_13-City: Small,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+Locale_21-Suburb: Large,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+Locale_22-Suburb: Mid-size,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+Locale_23-Suburb: Small,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+Locale_31-Town: Fringe,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+Locale_32-Town: Distant,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+Locale_33-Town: Remote,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+Locale_41-Rural: Fringe,SFS,Ridge,0.0,N/A,0,SFS - Ridge
+Locale_42-Rural: Distant,SFS,Ridge,1.0,N/A,1,SFS - Ridge
+Locale_43-Rural: Remote,SFS,Ridge,0.0,N/A,0,SFS - Ridge
