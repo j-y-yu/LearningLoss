@@ -1,7 +1,7 @@
 # Gradient Boosting Modeling Improvement Project #2 [Identifying Learning Loss Factors in Texas Public Schools]
 **Data Science Pipeline for Integrating, Analyzing and Modeling Open Source Tabular Data**
 
-Developed for the _Identifying Learning Loss Factors in Texas Public Schools project_ by [June Yu](https://www.linkedin.com/in/j-y-yu/), (data integration, analysis, feature selection, and modeling), Daniel Payan([dashboard author](https://github.com/DataLab12/resilienceDashboardsTX)), [Li Feng](https://lifeng.wp.txstate.edu/) (domain expert), and [Jelena Tešić](jtesic.github.io) (project lead). The work has been supported by [The Center of Excellence for Community Health and Economic Resilience Research](https://www.cherr.txst.edu/) and [Data Lab](https://DataLab12.github.io) @ Texas State University.
+Developed for the _Identifying Learning Loss Factors in Texas Public Schools project_ by [June Yu](https://www.linkedin.com/in/j-y-yu/), (data integration, analysis, feature selection, and modeling), Daniel Payan([dashboard author](https://github.com/DataLab12/resilienceDashboardsTX)), [Li Feng](https://lifeng.wp.txstate.edu/) (domain expert), and [Jelena Tešić](https://jtesic.github.io/) (project lead). The work has been supported by [The Center of Excellence for Community Health and Economic Resilience Research](https://www.cherr.txst.edu/) and [Data Lab](https://DataLab12.github.io) @ Texas State University.
 
 ![Learning Loss Project Summary](docs/LearningLoss_Summary.png)
 
