@@ -199,7 +199,7 @@
  [0.34085662 0.44942217 0.20972121]
  [0.13041701 0.569991   0.29959199]
  [0.14116669 0.57009188 0.28874142]]","['% Black Diff', '% On Campus 01/29/21', '% On Campus 09/28/20', '% On Campus 10/30/20', '% Prek Diff', '% Reduced-price Lunch Diff', '% Tested Reading G4 Diff', '% Tested Reading G6 Diff', '% Tested Reading G7 Diff', 'ARP ESSER III 21', 'CARES ESSER I 20', 'CRRSA ESSER II 21', 'ESSER-SUPP 23', 'Unemployed Level Diff']","LogisticRegression(C=0.01, max_iter=10000, multi_class='ovr', n_jobs=-1,
-                   random_state=123, solver='newton-cg')",0.625,"              precision    recall  f1-score   support
+                   random_state=123, solver='newton-cg')",0.390625,"              precision    recall  f1-score   support
 
           -1       0.77      0.53      0.63        43
            0       0.59      0.93      0.72       102
@@ -618,7 +618,7 @@ weighted avg       0.49      0.61      0.52       191
  [0.15936236 0.52701497 0.31362266]
  [0.15452951 0.54481036 0.30066013]
  [0.10217483 0.74068643 0.15713874]]","['# of Families 10', '# of Households 10', '% ADA Diff', '% Age 20-24 Pop 10', '% Age 35-44 Pop 10', '% Age 85-Up Pop 10', '% Asian Diff', '% Asian Pop 10', '% Black Diff', '% Black Pop 10', '% County Infected 09/28/20', '% Female Pop 10', '% Free Lunch Diff', '% Grades 1-8 Diff', '% Grades 9-12 Diff', '% HH Male-Child 10', '% HH Married-noChild 10', '% Hispanic Diff', '% Kinder Diff', '% Male Pop 10', '% On Campus 01/29/21', '% On Campus 09/28/20', '% On Campus 10/30/20', '% Prek Diff', '% Reduced-price Lunch Diff', '% Tested Reading G3 Diff', '% Tested Reading G4 Diff', '% Tested Reading G5 Diff', '% Tested Reading G6 Diff', '% Tested Reading G7 Diff', '% Tested Reading G8 Diff', '% Title 1 School-wide Diff', '% White Diff', '% White Pop 10', 'ARP ESSER III 21', 'Avg Family Size 10', 'Avg Household Size 10', 'CARES ESSER I 20', 'CRRSA ESSER II 21', 'County Population', 'ESSER-SUPP 22', 'ESSER-SUPP 23', 'Employed Diff', 'Labor Force Diff', 'Locale_13-City: Small', 'Locale_31-Town: Fringe', 'Locale_32-Town: Distant', 'Locale_43-Rural: Remote', 'Median Age 10', 'Median Age Female 10', 'Median Age Male 10', 'Staff:Students Diff', 'Teachers:Students Diff', 'Total Schools Diff', 'Total Students Diff', 'Unemployed Level Diff', 'Unemployed Rate Diff']","RandomForestClassifier(ccp_alpha=0, max_leaf_nodes=31, n_estimators=50,
-                       n_jobs=-1, random_state=123)",22.546875,"              precision    recall  f1-score   support
+                       n_jobs=-1, random_state=123)",22.140625,"              precision    recall  f1-score   support
 
           -1       0.64      0.53      0.58        43
            0       0.59      0.82      0.69       102
@@ -828,7 +828,7 @@ weighted avg       0.55      0.59      0.54       191
  [0.34895653 0.47952174 0.17152172]
  [0.13206872 0.5548831  0.31304819]
  [0.14257802 0.55518576 0.30223622]]","['# of Families 10', '# of Households 10', '% ADA Diff', '% Age 20-24 Pop 10', '% Age 35-44 Pop 10', '% Age 85-Up Pop 10', '% Asian Diff', '% Asian Pop 10', '% Black Diff', '% Black Pop 10', '% County Infected 09/28/20', '% Female Pop 10', '% Free Lunch Diff', '% Grades 1-8 Diff', '% Grades 9-12 Diff', '% HH Male-Child 10', '% HH Married-noChild 10', '% Hispanic Diff', '% Kinder Diff', '% Male Pop 10', '% On Campus 01/29/21', '% On Campus 09/28/20', '% On Campus 10/30/20', '% Prek Diff', '% Reduced-price Lunch Diff', '% Tested Reading G3 Diff', '% Tested Reading G4 Diff', '% Tested Reading G5 Diff', '% Tested Reading G6 Diff', '% Tested Reading G7 Diff', '% Tested Reading G8 Diff', '% Title 1 School-wide Diff', '% White Diff', '% White Pop 10', 'ARP ESSER III 21', 'Avg Family Size 10', 'Avg Household Size 10', 'CARES ESSER I 20', 'CRRSA ESSER II 21', 'County Population', 'ESSER-SUPP 22', 'ESSER-SUPP 23', 'Employed Diff', 'Labor Force Diff', 'Locale_13-City: Small', 'Locale_31-Town: Fringe', 'Locale_32-Town: Distant', 'Locale_43-Rural: Remote', 'Median Age 10', 'Median Age Female 10', 'Median Age Male 10', 'Staff:Students Diff', 'Teachers:Students Diff', 'Total Schools Diff', 'Total Students Diff', 'Unemployed Level Diff', 'Unemployed Rate Diff']","LogisticRegression(C=0.01, max_iter=10000, multi_class='ovr', n_jobs=-1,
-                   random_state=123, solver='newton-cg')",0.34375,"              precision    recall  f1-score   support
+                   random_state=123, solver='newton-cg')",0.4375,"              precision    recall  f1-score   support
 
           -1       0.66      0.53      0.59        43
            0       0.58      0.86      0.69       102
@@ -1038,7 +1038,7 @@ weighted avg       0.52      0.59      0.51       191
  [0.31976118 0.46916739 0.21107143]
  [0.11584921 0.54173268 0.34241811]
  [0.10385317 0.66555411 0.23059271]]","['% Age 20-24 Pop 10', '% Asian Diff', '% Black Diff', '% Free Lunch Diff', '% Grades 1-8 Diff', '% Grades 9-12 Diff', '% Kinder Diff', '% On Campus 01/29/21', '% On Campus 09/28/20', '% On Campus 10/30/20', '% Prek Diff', '% Reduced-price Lunch Diff', '% Tested Reading G4 Diff', '% Tested Reading G6 Diff', '% Tested Reading G7 Diff', '% White Diff', 'ARP ESSER III 21', 'Avg Household Size 10', 'CARES ESSER I 20', 'CRRSA ESSER II 21', 'ESSER-SUPP 23', 'Employed Diff', 'Labor Force Diff', 'Median Age Female 10', 'Total Schools Diff', 'Total Students Diff', 'Unemployed Level Diff']","RandomForestClassifier(ccp_alpha=0, max_samples=0.1, min_samples_leaf=5,
-                       n_jobs=-1, random_state=123)",21.65625,"              precision    recall  f1-score   support
+                       n_jobs=-1, random_state=123)",21.9375,"              precision    recall  f1-score   support
 
           -1       0.72      0.53      0.61        43
            0       0.59      0.86      0.70       102
@@ -1247,7 +1247,7 @@ weighted avg       0.50      0.59      0.52       191
  [0.16982063 0.57072124 0.25945813]
  [0.33294777 0.47815884 0.18889338]
  [0.14126698 0.59089564 0.26783738]
- [0.14410174 0.58578593 0.27011234]]","['% Age 20-24 Pop 10', '% Asian Diff', '% Black Diff', '% Free Lunch Diff', '% Grades 1-8 Diff', '% Grades 9-12 Diff', '% Kinder Diff', '% On Campus 01/29/21', '% On Campus 09/28/20', '% On Campus 10/30/20', '% Prek Diff', '% Reduced-price Lunch Diff', '% Tested Reading G4 Diff', '% Tested Reading G6 Diff', '% Tested Reading G7 Diff', '% White Diff', 'ARP ESSER III 21', 'Avg Household Size 10', 'CARES ESSER I 20', 'CRRSA ESSER II 21', 'ESSER-SUPP 23', 'Employed Diff', 'Labor Force Diff', 'Median Age Female 10', 'Total Schools Diff', 'Total Students Diff', 'Unemployed Level Diff']","SVC(C=0.01, kernel='linear', probability=True, random_state=123)",0.203125,"              precision    recall  f1-score   support
+ [0.14410174 0.58578593 0.27011234]]","['% Age 20-24 Pop 10', '% Asian Diff', '% Black Diff', '% Free Lunch Diff', '% Grades 1-8 Diff', '% Grades 9-12 Diff', '% Kinder Diff', '% On Campus 01/29/21', '% On Campus 09/28/20', '% On Campus 10/30/20', '% Prek Diff', '% Reduced-price Lunch Diff', '% Tested Reading G4 Diff', '% Tested Reading G6 Diff', '% Tested Reading G7 Diff', '% White Diff', 'ARP ESSER III 21', 'Avg Household Size 10', 'CARES ESSER I 20', 'CRRSA ESSER II 21', 'ESSER-SUPP 23', 'Employed Diff', 'Labor Force Diff', 'Median Age Female 10', 'Total Schools Diff', 'Total Students Diff', 'Unemployed Level Diff']","SVC(C=0.01, kernel='linear', probability=True, random_state=123)",0.21875,"              precision    recall  f1-score   support
 
           -1       0.65      0.51      0.57        43
            0       0.57      0.88      0.69       102
@@ -1457,7 +1457,7 @@ weighted avg       0.45      0.59      0.50       191
  [0.32925825 0.53299754 0.13774421]
  [0.13993781 0.56154577 0.29851642]
  [0.13933501 0.54827348 0.31239152]]","['% Age 20-24 Pop 10', '% Asian Diff', '% Black Diff', '% Free Lunch Diff', '% Grades 1-8 Diff', '% Grades 9-12 Diff', '% Kinder Diff', '% On Campus 01/29/21', '% On Campus 09/28/20', '% On Campus 10/30/20', '% Prek Diff', '% Reduced-price Lunch Diff', '% Tested Reading G4 Diff', '% Tested Reading G6 Diff', '% Tested Reading G7 Diff', '% White Diff', 'ARP ESSER III 21', 'Avg Household Size 10', 'CARES ESSER I 20', 'CRRSA ESSER II 21', 'ESSER-SUPP 23', 'Employed Diff', 'Labor Force Diff', 'Median Age Female 10', 'Total Schools Diff', 'Total Students Diff', 'Unemployed Level Diff']","LogisticRegression(C=0.01, max_iter=10000, multi_class='ovr', n_jobs=-1,
-                   random_state=123, solver='newton-cg')",0.59375,"              precision    recall  f1-score   support
+                   random_state=123, solver='newton-cg')",0.375,"              precision    recall  f1-score   support
 
           -1       0.67      0.51      0.58        43
            0       0.57      0.88      0.69       102
@@ -1912,7 +1912,7 @@ weighted avg       0.52      0.58      0.52       191
  [0.34 0.42 0.24]
  [0.12 0.54 0.34]
  [0.08 0.68 0.24]]","['% Black Diff', '% On Campus 01/29/21', '% On Campus 09/28/20', '% On Campus 10/30/20', '% Prek Diff', '% Reduced-price Lunch Diff', '% Tested Reading G4 Diff', '% Tested Reading G6 Diff', '% Tested Reading G7 Diff', 'ARP ESSER III 21', 'CARES ESSER I 20', 'CRRSA ESSER II 21', 'ESSER-SUPP 23', 'Unemployed Level Diff']","RandomForestClassifier(ccp_alpha=0, max_samples=0.1, n_estimators=50, n_jobs=-1,
-                       random_state=123)",20.9375,"              precision    recall  f1-score   support
+                       random_state=123)",20.515625,"              precision    recall  f1-score   support
 
           -1       0.66      0.53      0.59        43
            0       0.58      0.80      0.67       102
@@ -2122,7 +2122,7 @@ weighted avg       0.54      0.58      0.53       191
  [0.33333333 0.11111111 0.55555556]
  [0.11111111 0.66666667 0.22222222]
  [0.11111111 0.44444444 0.44444444]]","['% Black Diff', '% On Campus 01/29/21', '% On Campus 09/28/20', '% On Campus 10/30/20', '% Prek Diff', '% Reduced-price Lunch Diff', '% Tested Reading G4 Diff', '% Tested Reading G6 Diff', '% Tested Reading G7 Diff', 'ARP ESSER III 21', 'CARES ESSER I 20', 'CRRSA ESSER II 21', 'ESSER-SUPP 23', 'Unemployed Level Diff']","KNeighborsClassifier(algorithm='ball_tree', leaf_size=10, n_jobs=-1,
-                     n_neighbors=9)",0.359375,"              precision    recall  f1-score   support
+                     n_neighbors=9)",0.375,"              precision    recall  f1-score   support
 
           -1       0.55      0.49      0.52        43
            0       0.59      0.77      0.67       102
@@ -2333,7 +2333,7 @@ weighted avg       0.55      0.57      0.54       191
  [0.19191027 0.39641079 0.41167894]
  [0.11650663 0.59271012 0.29078325]]","['% Black Diff', '% On Campus 01/29/21', '% On Campus 09/28/20', '% On Campus 10/30/20', '% Prek Diff', '% Reduced-price Lunch Diff', '% Tested Reading G4 Diff', '% Tested Reading G6 Diff', '% Tested Reading G7 Diff', 'ARP ESSER III 21', 'CARES ESSER I 20', 'CRRSA ESSER II 21', 'ESSER-SUPP 23', 'Unemployed Level Diff']","GradientBoostingClassifier(ccp_alpha=0.001, max_depth=6, max_leaf_nodes=10,
                            n_estimators=50, n_iter_no_change=20,
-                           random_state=123)",20.75,"              precision    recall  f1-score   support
+                           random_state=123)",21.1875,"              precision    recall  f1-score   support
 
           -1       0.59      0.47      0.52        43
            0       0.60      0.78      0.68       102
@@ -2544,7 +2544,7 @@ weighted avg       0.54      0.57      0.54       191
  [0.22676296 0.46286053 0.31037651]
  [0.13350535 0.52856119 0.33793346]]","['% Age 20-24 Pop 10', '% Asian Diff', '% Black Diff', '% Free Lunch Diff', '% Grades 1-8 Diff', '% Grades 9-12 Diff', '% Kinder Diff', '% On Campus 01/29/21', '% On Campus 09/28/20', '% On Campus 10/30/20', '% Prek Diff', '% Reduced-price Lunch Diff', '% Tested Reading G4 Diff', '% Tested Reading G6 Diff', '% Tested Reading G7 Diff', '% White Diff', 'ARP ESSER III 21', 'Avg Household Size 10', 'CARES ESSER I 20', 'CRRSA ESSER II 21', 'ESSER-SUPP 23', 'Employed Diff', 'Labor Force Diff', 'Median Age Female 10', 'Total Schools Diff', 'Total Students Diff', 'Unemployed Level Diff']","GradientBoostingClassifier(ccp_alpha=0, max_depth=6, max_leaf_nodes=31,
                            min_samples_leaf=10, n_estimators=50,
-                           n_iter_no_change=20, random_state=123)",32.3125,"              precision    recall  f1-score   support
+                           n_iter_no_change=20, random_state=123)",32.0625,"              precision    recall  f1-score   support
 
           -1       0.62      0.42      0.50        43
            0       0.58      0.81      0.68       102
@@ -2789,7 +2789,7 @@ weighted avg       0.55      0.57      0.53       191
        'Locale_33-Town: Remote', 'Locale_41-Rural: Fringe',
        'Locale_42-Rural: Distant', 'Locale_43-Rural: Remote'],
       dtype='object')","RandomForestClassifier(ccp_alpha=0, criterion='entropy', min_samples_leaf=5,
-                       n_estimators=50, n_jobs=-1, random_state=123)",24.921875,"              precision    recall  f1-score   support
+                       n_estimators=50, n_jobs=-1, random_state=123)",23.96875,"              precision    recall  f1-score   support
 
           -1       0.61      0.51      0.56        43
            0       0.58      0.82      0.68       102
@@ -2999,7 +2999,7 @@ weighted avg       0.50      0.57      0.50       191
  [0.28571429 0.57142857 0.14285714]
  [0.28571429 0.57142857 0.14285714]
  [0.28571429 0.57142857 0.14285714]]","['% Age 20-24 Pop 10', '% Asian Diff', '% Black Diff', '% Free Lunch Diff', '% Grades 1-8 Diff', '% Grades 9-12 Diff', '% Kinder Diff', '% On Campus 01/29/21', '% On Campus 09/28/20', '% On Campus 10/30/20', '% Prek Diff', '% Reduced-price Lunch Diff', '% Tested Reading G4 Diff', '% Tested Reading G6 Diff', '% Tested Reading G7 Diff', '% White Diff', 'ARP ESSER III 21', 'Avg Household Size 10', 'CARES ESSER I 20', 'CRRSA ESSER II 21', 'ESSER-SUPP 23', 'Employed Diff', 'Labor Force Diff', 'Median Age Female 10', 'Total Schools Diff', 'Total Students Diff', 'Unemployed Level Diff']","KNeighborsClassifier(algorithm='ball_tree', leaf_size=10, n_jobs=-1,
-                     n_neighbors=7)",0.265625,"              precision    recall  f1-score   support
+                     n_neighbors=7)",0.34375,"              precision    recall  f1-score   support
 
           -1       0.56      0.56      0.56        43
            0       0.57      0.69      0.62       102
@@ -3211,7 +3211,7 @@ weighted avg       0.53      0.54      0.53       191
  [0.08674207 0.62738532 0.28587261]]","['# of Families 10', '# of Households 10', '% ADA Diff', '% Age 20-24 Pop 10', '% Age 35-44 Pop 10', '% Age 85-Up Pop 10', '% Asian Diff', '% Asian Pop 10', '% Black Diff', '% Black Pop 10', '% County Infected 09/28/20', '% Female Pop 10', '% Free Lunch Diff', '% Grades 1-8 Diff', '% Grades 9-12 Diff', '% HH Male-Child 10', '% HH Married-noChild 10', '% Hispanic Diff', '% Kinder Diff', '% Male Pop 10', '% On Campus 01/29/21', '% On Campus 09/28/20', '% On Campus 10/30/20', '% Prek Diff', '% Reduced-price Lunch Diff', '% Tested Reading G3 Diff', '% Tested Reading G4 Diff', '% Tested Reading G5 Diff', '% Tested Reading G6 Diff', '% Tested Reading G7 Diff', '% Tested Reading G8 Diff', '% Title 1 School-wide Diff', '% White Diff', '% White Pop 10', 'ARP ESSER III 21', 'Avg Family Size 10', 'Avg Household Size 10', 'CARES ESSER I 20', 'CRRSA ESSER II 21', 'County Population', 'ESSER-SUPP 22', 'ESSER-SUPP 23', 'Employed Diff', 'Labor Force Diff', 'Locale_13-City: Small', 'Locale_31-Town: Fringe', 'Locale_32-Town: Distant', 'Locale_43-Rural: Remote', 'Median Age 10', 'Median Age Female 10', 'Median Age Male 10', 'Staff:Students Diff', 'Teachers:Students Diff', 'Total Schools Diff', 'Total Students Diff', 'Unemployed Level Diff', 'Unemployed Rate Diff']","GradientBoostingClassifier(ccp_alpha=0.001, learning_rate=0.2, max_depth=6,
                            max_leaf_nodes=31, min_samples_leaf=10,
                            n_estimators=50, n_iter_no_change=20,
-                           random_state=123)",34.28125,"              precision    recall  f1-score   support
+                           random_state=123)",35.609375,"              precision    recall  f1-score   support
 
           -1       0.58      0.51      0.54        43
            0       0.58      0.75      0.66       102
@@ -3420,7 +3420,7 @@ weighted avg       0.51      0.55      0.52       191
  [0.13673654 0.54677145 0.316492  ]
  [0.25159584 0.49749084 0.25091332]
  [0.12701459 0.63591794 0.23706747]
- [0.09964498 0.62404855 0.27630647]]","['# of Families 10', '# of Households 10', '% ADA Diff', '% Age 20-24 Pop 10', '% Age 35-44 Pop 10', '% Age 85-Up Pop 10', '% Asian Diff', '% Asian Pop 10', '% Black Diff', '% Black Pop 10', '% County Infected 09/28/20', '% Female Pop 10', '% Free Lunch Diff', '% Grades 1-8 Diff', '% Grades 9-12 Diff', '% HH Male-Child 10', '% HH Married-noChild 10', '% Hispanic Diff', '% Kinder Diff', '% Male Pop 10', '% On Campus 01/29/21', '% On Campus 09/28/20', '% On Campus 10/30/20', '% Prek Diff', '% Reduced-price Lunch Diff', '% Tested Reading G3 Diff', '% Tested Reading G4 Diff', '% Tested Reading G5 Diff', '% Tested Reading G6 Diff', '% Tested Reading G7 Diff', '% Tested Reading G8 Diff', '% Title 1 School-wide Diff', '% White Diff', '% White Pop 10', 'ARP ESSER III 21', 'Avg Family Size 10', 'Avg Household Size 10', 'CARES ESSER I 20', 'CRRSA ESSER II 21', 'County Population', 'ESSER-SUPP 22', 'ESSER-SUPP 23', 'Employed Diff', 'Labor Force Diff', 'Locale_13-City: Small', 'Locale_31-Town: Fringe', 'Locale_32-Town: Distant', 'Locale_43-Rural: Remote', 'Median Age 10', 'Median Age Female 10', 'Median Age Male 10', 'Staff:Students Diff', 'Teachers:Students Diff', 'Total Schools Diff', 'Total Students Diff', 'Unemployed Level Diff', 'Unemployed Rate Diff']","SVC(C=1, probability=True, random_state=123)",0.625,"              precision    recall  f1-score   support
+ [0.09964498 0.62404855 0.27630647]]","['# of Families 10', '# of Households 10', '% ADA Diff', '% Age 20-24 Pop 10', '% Age 35-44 Pop 10', '% Age 85-Up Pop 10', '% Asian Diff', '% Asian Pop 10', '% Black Diff', '% Black Pop 10', '% County Infected 09/28/20', '% Female Pop 10', '% Free Lunch Diff', '% Grades 1-8 Diff', '% Grades 9-12 Diff', '% HH Male-Child 10', '% HH Married-noChild 10', '% Hispanic Diff', '% Kinder Diff', '% Male Pop 10', '% On Campus 01/29/21', '% On Campus 09/28/20', '% On Campus 10/30/20', '% Prek Diff', '% Reduced-price Lunch Diff', '% Tested Reading G3 Diff', '% Tested Reading G4 Diff', '% Tested Reading G5 Diff', '% Tested Reading G6 Diff', '% Tested Reading G7 Diff', '% Tested Reading G8 Diff', '% Title 1 School-wide Diff', '% White Diff', '% White Pop 10', 'ARP ESSER III 21', 'Avg Family Size 10', 'Avg Household Size 10', 'CARES ESSER I 20', 'CRRSA ESSER II 21', 'County Population', 'ESSER-SUPP 22', 'ESSER-SUPP 23', 'Employed Diff', 'Labor Force Diff', 'Locale_13-City: Small', 'Locale_31-Town: Fringe', 'Locale_32-Town: Distant', 'Locale_43-Rural: Remote', 'Median Age 10', 'Median Age Female 10', 'Median Age Male 10', 'Staff:Students Diff', 'Teachers:Students Diff', 'Total Schools Diff', 'Total Students Diff', 'Unemployed Level Diff', 'Unemployed Rate Diff']","SVC(C=1, probability=True, random_state=123)",0.65625,"              precision    recall  f1-score   support
 
           -1       0.63      0.44      0.52        43
            0       0.56      0.86      0.68       102
@@ -3664,7 +3664,7 @@ weighted avg       0.44      0.56      0.48       191
        'Locale_31-Town: Fringe', 'Locale_32-Town: Distant',
        'Locale_33-Town: Remote', 'Locale_41-Rural: Fringe',
        'Locale_42-Rural: Distant', 'Locale_43-Rural: Remote'],
-      dtype='object')","SVC(C=1, probability=True, random_state=123)",0.359375,"              precision    recall  f1-score   support
+      dtype='object')","SVC(C=1, probability=True, random_state=123)",0.3125,"              precision    recall  f1-score   support
 
           -1       0.62      0.42      0.50        43
            0       0.55      0.85      0.67       102
@@ -3874,7 +3874,7 @@ weighted avg       0.44      0.55      0.47       191
  [0.         0.71428571 0.28571429]
  [0.         0.57142857 0.42857143]
  [0.         0.85714286 0.14285714]]","['# of Families 10', '# of Households 10', '% ADA Diff', '% Age 20-24 Pop 10', '% Age 35-44 Pop 10', '% Age 85-Up Pop 10', '% Asian Diff', '% Asian Pop 10', '% Black Diff', '% Black Pop 10', '% County Infected 09/28/20', '% Female Pop 10', '% Free Lunch Diff', '% Grades 1-8 Diff', '% Grades 9-12 Diff', '% HH Male-Child 10', '% HH Married-noChild 10', '% Hispanic Diff', '% Kinder Diff', '% Male Pop 10', '% On Campus 01/29/21', '% On Campus 09/28/20', '% On Campus 10/30/20', '% Prek Diff', '% Reduced-price Lunch Diff', '% Tested Reading G3 Diff', '% Tested Reading G4 Diff', '% Tested Reading G5 Diff', '% Tested Reading G6 Diff', '% Tested Reading G7 Diff', '% Tested Reading G8 Diff', '% Title 1 School-wide Diff', '% White Diff', '% White Pop 10', 'ARP ESSER III 21', 'Avg Family Size 10', 'Avg Household Size 10', 'CARES ESSER I 20', 'CRRSA ESSER II 21', 'County Population', 'ESSER-SUPP 22', 'ESSER-SUPP 23', 'Employed Diff', 'Labor Force Diff', 'Locale_13-City: Small', 'Locale_31-Town: Fringe', 'Locale_32-Town: Distant', 'Locale_43-Rural: Remote', 'Median Age 10', 'Median Age Female 10', 'Median Age Male 10', 'Staff:Students Diff', 'Teachers:Students Diff', 'Total Schools Diff', 'Total Students Diff', 'Unemployed Level Diff', 'Unemployed Rate Diff']","KNeighborsClassifier(algorithm='ball_tree', leaf_size=10, n_jobs=-1,
-                     n_neighbors=7)",0.375,"              precision    recall  f1-score   support
+                     n_neighbors=7)",0.265625,"              precision    recall  f1-score   support
 
           -1       0.42      0.44      0.43        43
            0       0.55      0.73      0.63       102
@@ -4120,7 +4120,7 @@ weighted avg       0.49      0.51      0.47       191
        'Locale_42-Rural: Distant', 'Locale_43-Rural: Remote'],
       dtype='object')","GradientBoostingClassifier(ccp_alpha=0.001, max_depth=6, max_leaf_nodes=31,
                            min_samples_leaf=10, n_estimators=50,
-                           n_iter_no_change=20, random_state=123)",37.390625,"              precision    recall  f1-score   support
+                           n_iter_no_change=20, random_state=123)",35.921875,"              precision    recall  f1-score   support
 
           -1       0.55      0.40      0.46        43
            0       0.55      0.75      0.64       102
@@ -4365,7 +4365,7 @@ weighted avg       0.48      0.52      0.48       191
        'Locale_33-Town: Remote', 'Locale_41-Rural: Fringe',
        'Locale_42-Rural: Distant', 'Locale_43-Rural: Remote'],
       dtype='object')","KNeighborsClassifier(algorithm='ball_tree', leaf_size=10, n_jobs=-1,
-                     n_neighbors=11)",0.3125,"              precision    recall  f1-score   support
+                     n_neighbors=11)",0.375,"              precision    recall  f1-score   support
 
           -1       0.52      0.40      0.45        43
            0       0.55      0.79      0.65       102
